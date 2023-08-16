@@ -1,6 +1,9 @@
 [
-  "obsidian-tasks-plugin",
-  "obsidian-linter",
   "obsidian-annotator",
-  "obsidian-rollover-daily-todos"
+  "obsidian-linter",
+  "obsidian-plugin-prettier",
+  "obsidian-rollover-daily-todos",
+  "obsidian-tasks-plugin",
+  "obsidian-git",
+  "dataview"
 ]

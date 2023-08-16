@@ -103,5 +103,31 @@
       ],
       "key": "R"
     }
+  ],
+  "obsidian-rollover-daily-todos:obsidian-rollover-daily-todos-undo": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "Z"
+    }
+  ],
+  "obsidian-rollover-daily-todos:obsidian-rollover-daily-todos-rollover": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "R"
+    }
+  ],
+  "obsidian-annotator:toggle-annotation-mode": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "A"
+    }
   ]
 }

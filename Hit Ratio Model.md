@@ -1,8 +1,16 @@
 - binary target - hit/not hit
 - several of the predictors in the dataset won't be available at the time this model runs
-	- try to isolate/find variables that aren't going to depend on whether or not there has been a quote/policy written
-	- use econ data from fred
-		- decision to purchase is at least partly a function of the general economic environment
-		- or maybe economic factors influence the price they are willing to pay?
+    - try to isolate/find variables that aren't going to depend on whether or not there has been a quote/policy written
+    - use econ data from fred
+        - decision to purchase is at least partly a function of the general economic environment
+        - or maybe economic factors influence the price they are willing to pay?
 - using xgboost (probably) assuming it performs the best
-	- if there is a time series structure could benefit from NN?
+    - if there is a time series structure could benefit from NN?
+    - also have `lightgbm` and `catboost` available, as well as `pytorch` and `pyro`
+
+## 2023/08/16
+
+- working on class structure for data processing
+- maybe just make sure `s_fmt` gets calculated and binary is good to go??
+- I think this part is finished
+    - now I just need the workflow for univariate analysis
