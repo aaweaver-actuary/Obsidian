@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "In a balanced design, each coefficient can be estimated by a simple linear regression.md",
+                "file": "GAMs are a generalization of linear models that allow for flexible nonlinearities in several variables, without losing the additivity of a linear model.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "In a balanced design, each coefficient can be estimated by a simple linear regression.md",
+                "file": "GAMs are a generalization of linear models that allow for flexible nonlinearities in several variables, without losing the additivity of a linear model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "In a balanced design, each coefficient can be estimated by a simple linear regression.md",
+                "file": "GAMs are a generalization of linear models that allow for flexible nonlinearities in several variables, without losing the additivity of a linear model.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "In a balanced design, each coefficient can be estimated by a simple linear regression.md"
+                "file": "GAMs are a generalization of linear models that allow for flexible nonlinearities in several variables, without losing the additivity of a linear model.md"
               }
             }
           }
@@ -150,8 +150,13 @@
   },
   "active": "0d0f3415e4dd55be",
   "lastOpenFiles": [
-    "The ideal scenario for interpreting regression coefficents is when they are uncorrelated.md",
+    "GAMs are a generalization of linear models that allow for flexible nonlinearities in several variables, without losing the additivity of a linear model.md",
+    "GAM coefficients are not really interesting, but the smooth functions are.md",
+    "7. Moving Beyond Linearity.md",
+    "Decision trees are easy to understand, but do not perform competitively with other methods.md",
+    "8. Tree-Based Methods.md",
     "In a balanced design, each coefficient can be estimated by a simple linear regression.md",
+    "The ideal scenario for interpreting regression coefficents is when they are uncorrelated.md",
     "3. Linear Regression.md",
     "Bayesian.md",
     "Markov Chain Monte Carlo (MCMC).md",
@@ -171,11 +176,6 @@
     "Linear regression parameters are estimated by least squares.md",
     "Linear regression assumes the dependence of Y on X is approximately linear.md",
     "Statistical Learning Lectures.md",
-    "hit ratio = hit count/quote count.md",
-    "Partial residual.md",
-    "ensemble method.md",
-    "Untitled 1.md",
-    "Survival analysis.md",
     "hit ratio = hit count",
     "index_22_0.svg",
     "Untitled 1.canvas",
