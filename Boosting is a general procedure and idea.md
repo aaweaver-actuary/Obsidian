@@ -15,6 +15,8 @@
 - Unlike fitting a single large decision #tree to the data, which amounts to fitting the data hard and potentially #overfitting, boosting instead learns **slowly** ([[Overfitting is reduced by slower learning]])
 - Given the current model, we fit a decision #tree to the #residuals from the model
 - We then add this new decision #tree into the fitted function in order to update the #residuals
-- Each of these #trees can be rather small, with just a few terminal nodes determined by the parameter $d$ in the algorithm ([[Boosting algorithm for regression trees]])
+- Each of these #trees can be rather small, with just a few terminal nodes determined by the parameter $d$ in the algorithm [^1]
 - By fitting small #trees to the #residuals, we slowly improve $\hat{f}$ in areas where it does not perform well
-- The [[6. Linear Model Selection and Regularization#6.9 Shrinkage methods|shrinkage parameter]] $\lambda$ slows the process down even more, allowing more and differently-shaped trees to attack the residuals
+- The #shrinkage-parameter $\lambda$ slows the process down even more, allowing more and differently-shaped trees to attack the residuals
+
+[^1]:[[Boosting algorithm for regression trees]] 

@@ -1,11 +1,11 @@
-- binary target - hit/not hit
+- #binary-target - hit/not hit
 - several of the predictors in the dataset won't be available at the time this model runs
     - try to isolate/find variables that aren't going to depend on whether or not there has been a quote/policy written
     - use econ data from fred
         - decision to purchase is at least partly a function of the general economic environment
         - or maybe economic factors influence the price they are willing to pay?
-- using xgboost (probably) assuming it performs the best
-    - if there is a time series structure could benefit from NN?
+- using #xgboost [^1](probably) assuming it performs the best
+    - if there is a #time-series structure could benefit from NN?
     - also have `lightgbm` and `catboost` available, as well as `pytorch` and `pyro`
 
 ## 2023/08/16
@@ -31,3 +31,11 @@
 	- this left ~15 or so variables remaining from original 100K
 	- bada bing bada boom
 [[Models do not perform well unless they perform well on unseen data]]
+
+### 2023/08/16
+- [[featuretools likes data to be split into many connected tables]] #featuretools 
+
+[[Meeting with Dan P - 23-08-18]]
+
+
+[^1]: [[Boosting]] [[Boosting measures the importance of variables]] 

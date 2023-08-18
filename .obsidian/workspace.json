@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e798ea65b14214a6",
+        "id": "ed3924faacf1ae7f",
         "type": "tabs",
         "children": [
           {
-            "id": "414f22d7ad511a88",
+            "id": "0d0f3415e4dd55be",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Optimal Separating Hyperplanes.md",
+                "file": "In a balanced design, each coefficient can be estimated by a simple linear regression.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#mse",
+                "query": "tag:#mcmc",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Optimal Separating Hyperplanes.md",
+                "file": "In a balanced design, each coefficient can be estimated by a simple linear regression.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Optimal Separating Hyperplanes.md",
+                "file": "In a balanced design, each coefficient can be estimated by a simple linear regression.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,6 +118,16 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "caf6eb1575ec531b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "In a balanced design, each coefficient can be estimated by a simple linear regression.md"
               }
             }
           }
@@ -138,40 +148,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "414f22d7ad511a88",
+  "active": "0d0f3415e4dd55be",
   "lastOpenFiles": [
-    "Pasted image 20230818042537.png",
-    "hyperplane.md",
-    "A unit vector has norm 1.md",
-    "Optimal Separating Hyperplanes.md",
-    "Support Vector Machines (SVMs).md",
-    "2023-08-18.md",
-    "Statistical Learning Lectures.md",
-    "2023-08-17.md",
-    "Models do not perform well unless they perform well on unseen data.md",
-    "Hit Ratio Model.md",
-    "Metrics should be focused on the ultimate aim of the model.md",
-    "correlation coefficients.md",
-    "Loss Data Roadmap - Claims Data Pipeline.md",
+    "The ideal scenario for interpreting regression coefficents is when they are uncorrelated.md",
+    "In a balanced design, each coefficient can be estimated by a simple linear regression.md",
+    "3. Linear Regression.md",
+    "Bayesian.md",
+    "Markov Chain Monte Carlo (MCMC).md",
+    "BART is a Bayesian method.md",
     "EDA for binary target, binary feature.md",
-    "Chi-Squared tests for independence.md",
-    "Point-Biserial Correlation.md",
-    "Coefficient of multiple correlation.md",
-    "Binary classification training data should be balanced.md",
     "EDA for a binary target variable.md",
-    "EDA should be consistent based on the type of predictor and target.md",
-    "Bayesian Additive Regression Trees (BART).md",
-    "Regression.md",
+    "Meeting with Dan P - 23-08-18.md",
+    "It is important to produce documentation for every potential predictor I reject.md",
+    "Hit Ratio Model.md",
+    "2023-08-18.md",
+    "A balanced design happens when regression coefficients are uncorrelated.md",
+    "Multiple linear regression.md",
+    "Assess the accuracy of a linear regression model using standard errors, confidence intervals, and hypothesis testing.md",
+    "Assess the overall accuracy of the model by computing the residual standard error, an estimate of the standard deviation of the error.md",
+    "Standard errors can also be used to perform hypothesis tests on model coefficients.md",
+    "Linear regression is a simple approach to supervised learning.md",
+    "Linear regression parameters are estimated by least squares.md",
+    "Linear regression assumes the dependence of Y on X is approximately linear.md",
+    "Statistical Learning Lectures.md",
+    "hit ratio = hit count/quote count.md",
+    "Partial residual.md",
     "ensemble method.md",
-    "Boosting.md",
-    "Boosting measures the importance of variables.md",
-    "Boosting requires hyperparameter tuning.md",
-    "pdf/intro-to-statistical-learning.pdf",
+    "Untitled 1.md",
+    "Survival analysis.md",
+    "hit ratio = hit count",
+    "index_22_0.svg",
     "Untitled 1.canvas",
+    "Untitled.canvas",
+    "pdf/intro-to-statistical-learning.pdf",
+    "themes",
+    "Pasted image 20230818042537.png",
     "pdf/Introduction to Statistical Learning.pdf",
     "pdf",
     "New folder",
-    "8. Tree-Based Methods",
-    "Untitled.canvas"
+    "8. Tree-Based Methods"
   ]
 }

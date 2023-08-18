@@ -34,3 +34,6 @@
 - **Automated Reporting**
     
     - Consolidate results in a dashboard or a report with visuals and key statistics.
+
+
+[[It is important to produce documentation for every potential predictor I reject]]
