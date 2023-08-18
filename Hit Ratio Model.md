@@ -14,3 +14,20 @@
 - maybe just make sure `s_fmt` gets calculated and binary is good to go??
 - I think this part is finished
     - now I just need the workflow for univariate analysis
+
+## 2023/08/17
+[[EDA should be consistent based on the type of predictor and target]]
+[[Metrics should be focused on the ultimate aim of the model]]
+
+- got >99.5% #roc-auc on the `cancer` dataset
+	- used degree-5 polynomial transform
+		- + log transform
+		- + power transform
+		- + discretizer
+	- fit all 100K features to a univatiate logistic model
+	- kept the 100 features with best #cross-validated #mse 
+	- fit #xgboost model
+	- got #feature-importance from #xgboost after #grid-search 
+	- this left ~15 or so variables remaining from original 100K
+	- bada bing bada boom
+[[Models do not perform well unless they perform well on unseen data]]

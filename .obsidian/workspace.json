@@ -11,8 +11,12 @@
             "id": "414f22d7ad511a88",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Optimal Separating Hyperplanes.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "statis",
+                "query": "tag:#mse",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -83,6 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Optimal Separating Hyperplanes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,6 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Optimal Separating Hyperplanes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,37 +140,38 @@
   },
   "active": "414f22d7ad511a88",
   "lastOpenFiles": [
-    "pdf/intro-to-statistical-learning.pdf",
-    "Introduction to Statistical Learning.md",
-    "Python.md",
-    "2023-08-16.md",
-    "2. Overview of Statistical Learning.md",
-    "Untitled.md",
+    "Pasted image 20230818042537.png",
+    "hyperplane.md",
+    "A unit vector has norm 1.md",
+    "Optimal Separating Hyperplanes.md",
+    "Support Vector Machines (SVMs).md",
+    "2023-08-18.md",
+    "Statistical Learning Lectures.md",
+    "2023-08-17.md",
+    "Models do not perform well unless they perform well on unseen data.md",
     "Hit Ratio Model.md",
+    "Metrics should be focused on the ultimate aim of the model.md",
+    "correlation coefficients.md",
+    "Loss Data Roadmap - Claims Data Pipeline.md",
+    "EDA for binary target, binary feature.md",
+    "Chi-Squared tests for independence.md",
+    "Point-Biserial Correlation.md",
+    "Coefficient of multiple correlation.md",
+    "Binary classification training data should be balanced.md",
+    "EDA for a binary target variable.md",
+    "EDA should be consistent based on the type of predictor and target.md",
+    "Bayesian Additive Regression Trees (BART).md",
+    "Regression.md",
+    "ensemble method.md",
+    "Boosting.md",
+    "Boosting measures the importance of variables.md",
+    "Boosting requires hyperparameter tuning.md",
+    "pdf/intro-to-statistical-learning.pdf",
     "Untitled 1.canvas",
     "pdf/Introduction to Statistical Learning.pdf",
     "pdf",
     "New folder",
-    "Boosting.md",
-    "Elements of Statistical Learning.md",
-    "Bagging.md",
-    "Random forests.md",
-    "8. Tree-Based Methods.md",
-    "5. Resampling Methods.md",
-    "Statistical Learning Lectures.md",
-    "3. Linear Regression.md",
-    "4. Classification.md",
-    "Chapter 4.md",
-    "sb-env.md",
-    "2023-08-15.md",
-    "aw-env.md",
-    "pyro.md",
-    "Node.md",
-    "7. Moving Beyond Linearity.md",
     "8. Tree-Based Methods",
-    "2023-08-14.md",
-    "6. Linear Model Selection and Regularization.md",
-    "house.md",
     "Untitled.canvas"
   ]
 }

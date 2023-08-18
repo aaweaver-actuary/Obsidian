@@ -3,5 +3,6 @@
   "cssTheme": "Andy's Brain",
   "enabledCssSnippets": [
     "font"
-  ]
+  ],
+  "baseFontSize": 19
 }

@@ -1,0 +1,1 @@
+- [Everything I wish I knew when starting to use Obsidian — Nicholas Seitz Photographer (nickseitz.com)](https://www.nickseitz.com/writing/obsidian-day-one-starterpack) 
