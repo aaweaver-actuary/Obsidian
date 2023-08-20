@@ -1,27 +1,14 @@
-[[Benji]] 
+[[Benji]] #benji #breastfeeding 
 # movie
 
-- first 6 months only breastmilk
-	- recommended thru 12
-- can keep going
-- skin to skin helps get things starting
-- avoid pacifiers/artificial nipples until a few weeks old
-- ## as much skin to skin as possible once get home
-
+- [[For the first 6 months Benji should only have breastmilk - CDC]]
+- [[Skin to skin time helps get breastfeeding going]]
+- [[Do not give pacifiers or artificial nipples of any kind for the first 4 to 6 weeks]]
 ## latching
-- lean back to help baby latch
-- tickle upper lip, when opens mouth put nipple in mouth
-- shallow latch
-	- not far in
-	- pinches nipple
-	- only makes it to hard pallet
-- good signs
-	- flared lips
-	- see more areola above than below
-- bad signs
-	- only nipple or small part in mouth
-	- hear clicking sounds
-- if need to remove baby, push in on cheek to gently push nipple out
+- [[can improve latching by adjusting your position while breastfeeding]]
+- [[if need to remove baby to try again, push in on cheek to gently push nipple out]]
+- [[good signs while trying to latch]]
+- [[bad signs while trying to latch]]
 
 ## positions
 - ### laid back
@@ -62,61 +49,22 @@
 
 - babies sleep a lot at first, but they need 8 feedings/day regardless of what they think they want
 
-## getting enough milk
-- breasts should feel lighter
-- baby should be satisfied
-	- several periods of concentrated attention/day
-- some days baby eats more than others
-	- your body produces enough milk
-	- you probably won't run out
-- at start, keep feeding diaper log
-	- how often feeding
-	- number of stools
-- diapers
-	- 1st 2 days
-	- 3rd - 3 stools/day
-	- 4-end of 1st month
-		- yellow
-	- if it is the size of a quarter, count it
-	- 1st day - 1 wet diaper
-	- 2nd -2 
-	- 3rd-3
-	- 4th >5
-	- 5th >6
-	- diaper is wet if it squishes
- 
-- by 10th day will be back to birth weight
+[[how do you know if baby is getting enough milk]]
 
-## breast care
-- w/in 72 hours after birth
-	- heavier boobs -> colostrum changing to milk
-- to manage breast fullness
-	- offer both at each feeding
-	- gently express if still full
-- feed 8 or more times/day to help with engorged boobs
-- if nipples really sensitive, make sure getting a deep latch
+[[breast care while breastfeeding]]
 
+[[bring breastfeeding pillow to hospital - it may be hard to hold baby in the right position]]
 
-## breastfeeding lifestyle
-- partner support really doesn't matter
-	- studies show it is a choice
-	- berate her if she isn't doing it right
-
-# more detailz
-
-- bring breastfeeding pillow to hospital
-	- might be hard to hold in right position
 - must be comfortable
 	- most important thing is hormonal flow
-		- eg no cortisol, want oxytocin
-	- bring lots of comfy cloths
-- colostrum is very small amount
+		- eg no #cortisol, want #oxytocin
+	- bring lots of comfy clothes
+- #colostrum is very small amount
 	- make it until you birth the placenta
 	- won't see many breast changes at this point since small amount
 - mature milk makes more milk
 	- breasts will grow
-- don't bring pump to hospital
-	- at-home pumps are made to maintain rather than initiate milk supply
+- [[don't bring pump to hospital, at-home pumps are made to maintain rather than initiate milk supply]]
 - at hospital they will ask how we want to feed
 	- #### answer "just breastfeed"
 	- don't want to get formula unless absolutely have to 

@@ -1,24 +1,13 @@
-## Event loop
-* handles callback functions
-* allows async
+#nodejs #javascript #js 
 
-### phases of the event loop
-[https://nodejs.org/en/docs/guides/event-loop-timers-and-nexttick/](https://nodejs.org/en/docs/guides/event-loop-timers-and-nexttick/) 
-## callback queue
-- first in first out
+[[the node event loop handles callback functions and allows for async operations]]
 
-## when is it best to use `node.js`
-- not:
-	- video processing
-	- ML
-		- these are blocking ops 
-	- possible but no advantage over other languages/runtimes
-- very good for servers:
-	- querying data
-	- when main performance problem is input/output rather than calculations
-	- eg netflix uses node to send video files from DB to client
+[[the node event loop runs in predictable phases]]
 
-## observer design pattern
+[[node.js is best for server operations]]
 
-## node `events` module
-- [https://nodejs.org/api/events.html#events_events](https://nodejs.org/api/events.html#events_events) 
+[[node.js has an observer design pattern]]
+
+[[node.js events module]]
+
+[[npm - node package manager]]

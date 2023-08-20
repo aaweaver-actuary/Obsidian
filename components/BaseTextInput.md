@@ -2,6 +2,8 @@
 defines-react-components: true
 ---
 
+#react #js #components
+
 [input - MDN docs](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/text)
 
 ```jsx:component:BaseTextInput

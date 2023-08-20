@@ -1,0 +1,2 @@
+- flared lips
+- see more areola above than below
