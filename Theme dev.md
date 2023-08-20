@@ -1,2 +1,0 @@
-- Themes let you make [Obsidian](https://obsidian.md) look the way **you** want it.
-- 

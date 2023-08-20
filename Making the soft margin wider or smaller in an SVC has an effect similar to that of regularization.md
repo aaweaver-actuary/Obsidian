@@ -1,0 +1,2 @@
+#svm #regularization #soft-margin 
+

@@ -1,0 +1,1 @@
+#ridge #l2-norm #regularization #regression #standardize 

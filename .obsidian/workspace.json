@@ -13,13 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GAMs are a generalization of linear models that allow for flexible nonlinearities in several variables, without losing the additivity of a linear model.md",
+                "file": "Breastfeeding.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b4bcfe212139c073",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "react.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9e41a5f274917e5d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "components/BaseTextInput.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -48,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#mcmc",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,13 +90,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "d38ae6584cdefab7",
@@ -87,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GAMs are a generalization of linear models that allow for flexible nonlinearities in several variables, without losing the additivity of a linear model.md",
+                "file": "components/BaseTextInput.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GAMs are a generalization of linear models that allow for flexible nonlinearities in several variables, without losing the additivity of a linear model.md",
+                "file": "components/BaseTextInput.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GAMs are a generalization of linear models that allow for flexible nonlinearities in several variables, without losing the additivity of a linear model.md"
+                "file": "components/BaseTextInput.md"
               }
             }
           }
@@ -148,39 +171,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0d0f3415e4dd55be",
+  "active": "9e41a5f274917e5d",
   "lastOpenFiles": [
-    "GAMs are a generalization of linear models that allow for flexible nonlinearities in several variables, without losing the additivity of a linear model.md",
-    "GAM coefficients are not really interesting, but the smooth functions are.md",
-    "7. Moving Beyond Linearity.md",
-    "Decision trees are easy to understand, but do not perform competitively with other methods.md",
-    "8. Tree-Based Methods.md",
-    "In a balanced design, each coefficient can be estimated by a simple linear regression.md",
-    "The ideal scenario for interpreting regression coefficents is when they are uncorrelated.md",
-    "3. Linear Regression.md",
-    "Bayesian.md",
-    "Markov Chain Monte Carlo (MCMC).md",
-    "BART is a Bayesian method.md",
-    "EDA for binary target, binary feature.md",
-    "EDA for a binary target variable.md",
-    "Meeting with Dan P - 23-08-18.md",
-    "It is important to produce documentation for every potential predictor I reject.md",
-    "Hit Ratio Model.md",
-    "2023-08-18.md",
-    "A balanced design happens when regression coefficients are uncorrelated.md",
-    "Multiple linear regression.md",
-    "Assess the accuracy of a linear regression model using standard errors, confidence intervals, and hypothesis testing.md",
-    "Assess the overall accuracy of the model by computing the residual standard error, an estimate of the standard deviation of the error.md",
-    "Standard errors can also be used to perform hypothesis tests on model coefficients.md",
-    "Linear regression is a simple approach to supervised learning.md",
-    "Linear regression parameters are estimated by least squares.md",
-    "Linear regression assumes the dependence of Y on X is approximately linear.md",
-    "Statistical Learning Lectures.md",
-    "hit ratio = hit count",
+    "themes/components.styles.css",
+    "react.md",
+    "components/BaseTextInput.md",
+    "components",
+    "Breastfeeding.md",
+    "hales mothers milk.md",
+    "you want to hand express while also pumping.md",
+    "babies help release oxytocin and express milk better than pump.md",
+    "two weeks before going back to work start adding a pumping session to build up supply.md",
+    "in first 4-6 weeks only pump to comfort.md",
+    "when prepping milk for when you will be gone, need 1oz per hour you are away.md",
+    "look for swollen ring around nipple as an indicator that this is too small.md",
+    "part that goes on breast is the most important part -- if it doesn't fit pump won't work well.md",
+    "they stick out their tongue to make it easier to get the nipple further back.md",
+    "no amount of pain is normal -- ask for help ASAP.md",
+    "watch their head.md",
+    "don't sandwich the breast the same direction as baby's mouth.md",
+    "be sure you aren't pushing baby's head forward - press in between shoulder blades and pull back to towards opposite armpit.md",
+    "when the chin is still they are swallowing.md",
+    "when the chin is moving, they are sucking.md",
+    "Benji.md",
+    "make sure baby is straight ahead - it is very tough to swallow if neck is pointing to one side.md",
+    "do the cross cradle by lining up his nipple with her cleavage.md",
+    "asymmetrical latch - more areola showing by nose than under chin - is what we want.md",
+    "wide hips lead to loose lips.md",
+    "tummy to tummy -- full torso up against body.md",
+    "her favorite position is cross cradle.md",
+    "Pasted image 20230819063210.png",
+    "Pasted image 20230819060718.png",
+    "Pasted image 20230819060344.png",
     "index_22_0.svg",
+    "pdf/intro-to-statistical-learning.pdf",
+    "pdf/deep-feature-synthesis-2015.pdf",
+    "hit ratio = hit count",
     "Untitled 1.canvas",
     "Untitled.canvas",
-    "pdf/intro-to-statistical-learning.pdf",
     "themes",
     "Pasted image 20230818042537.png",
     "pdf/Introduction to Statistical Learning.pdf",

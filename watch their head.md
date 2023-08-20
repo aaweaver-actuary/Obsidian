@@ -1,0 +1,2 @@
+- [[when the chin is moving, they are sucking]]
+- [[when the chin is still they are swallowing]]

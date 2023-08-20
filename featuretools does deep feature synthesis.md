@@ -1,3 +1,4 @@
+#alteryx #featuretools 
 [Deep feature synthesis docs](https://featuretools.alteryx.com/en/stable/getting_started/afe.html#Deep-Feature-Synthesis)
 
 >[!note]
