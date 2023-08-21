@@ -8,31 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5b2d18ffd6253841",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Starting Daily Template.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "13b6de430b6d61ae",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "components/DateLink.md",
+                "file": "templates/daily template.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "d38ae6584cdefab7",
@@ -98,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "components/DateLink.md",
+                "file": "templates/daily template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "components/DateLink.md",
+                "file": "templates/daily template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "components/DateLink.md"
+                "file": "templates/daily template.md"
               }
             }
           }
@@ -161,32 +149,33 @@
   },
   "active": "13b6de430b6d61ae",
   "lastOpenFiles": [
-    "components/BaseTextInput.md",
-    "components/DateLink.md",
+    "templates",
+    "daily",
+    "2023-08-21.md",
+    "templates/daily template.md",
+    "PyTorch - Embeddings.md",
+    "PyTorch Embeddings Documentation.md",
+    "note.md",
+    "Statistical Learning Lectures.md",
+    "Classification.md",
+    "We cannot use linear regression for binary classification.md",
+    "Overview of Statistical Learning.md",
+    "Linear Regression.md",
+    "the Bayes optimal classifier is the one that assigns each observation to the most likely class, given its predictor values.md",
+    "Bias-variance trade-off in statistical learning.md",
+    "Trade-offs in statistical learning.md",
+    "Deep Learning.md",
+    "Details of the output layer in a neural network.md",
+    "Single-Layer Neural Network.md",
+    "Support Vector Machines (SVMs).md",
+    "Support vector machines vs logistic regression.md",
+    "Using SVMs with more than 2 classes.md",
     "Starting Daily Template.md",
-    "2023-08-20.md",
-    "AndyAI.md",
-    "questions from betterhelp.com.md",
-    "prompt I am working with to generate fine-tuning questions.md",
-    "original AndyAI prompt.md",
-    "package-lock.json is a much more specific version of package.json.md",
-    "npm - node package manager.md",
-    "Semantic versioning.md",
-    "Packages in package.json use semantic versioning.md",
-    "Semantic versioning - MAJOR.MINOR.PATCH.md",
-    "Semantic versioning - MINOR.md",
-    "Semantic versioning - MAJOR.md",
-    "Semantic versioning - PATCH.md",
-    "Using Third Party Modules.md",
-    "axios is a promise-based HTTP client for the browser and node.js.md",
-    "Node.md",
-    "axios is preferable to fetch (for me).md",
-    "Axios provides more information in the error object which might be useful in debugging..md",
-    "Axios automatically converts response data to JSON, so no need to call response.json() as with fetch.md",
-    "Axios provides a more straightforward way to cancel requests, which can be beneficial in specific scenarios.md",
-    "Axios can be preferable as it includes built-in polyfills, leading to wider browser support..md",
-    "A node.js package most commonly refers to a package on the npm registry, not an internal package.md",
-    "To install npm packages you first initialize the project with the npm tool.md",
+    "SVM examples.md",
+    "Feature expansion and the SVM.md",
+    "The more elegant and controlled way to overcome a failed linear decision boundary in a SVM is through kernels.md",
+    "Kernels and support vector machines.md",
+    "One of the most popular kernels is the radial kernel.md",
     "themes/components.styles.css",
     "components",
     "Pasted image 20230819063210.png",
@@ -202,7 +191,6 @@
     "Pasted image 20230818042537.png",
     "pdf/Introduction to Statistical Learning.pdf",
     "pdf",
-    "New folder",
-    "8. Tree-Based Methods"
+    "New folder"
   ]
 }

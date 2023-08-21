@@ -1,11 +1,11 @@
 ## 2.1 Linear Regression
 
 ## 2.2 Nearest Neighbors
-* nearest neighbors can be pretty good for small $p$
+* #nearest-neighbors can be pretty good for small $p$
   * eg $p \le 4$ and large $N$
   * will discuss clever/smoother versions (kernel, spline smoothing) later
 * NN methods can be really bad when $p$ is large
-  * curse of dimensionality
+  * #curse-of-dimensionality
     * NN tend to be far away in very high dimensions
 
 ## 2.3 Parametric & structured models
@@ -13,22 +13,10 @@
   * $f_L(X) = \beta_0 + \beta_1 X_1 + \dots + \beta_p X_p$
 * a linear model is specified in terms of $p+1$ parameters $\beta_0, \dots, \beta_p$
 * estimate the parameters by fitting the model to the training data
-* although it is almost never correct, a linear model often serves as a good and interpretable approximation to the unknown true function $f(X)$
+* although it is almost never correct, a #linear-model often serves as a good and interpretable approximation to the unknown true function $f(X)$
 
 ## 2.4 Trade-offs:
-
-1. **prediction accuracy** vs **interpretability**
-    - linear regression is highly interpretable
-    * random forest is not interpretable
-
-2. **good fit** vs **overfitting**
-    - linear regression is prone to underfitting
-    * random forest is prone to overfitting
-
-3. **parsimony** vs **complexity**  
-     * [[3. Linear Regression|linear regression]] is parsimonious
-     * [[Random forests|random forest]] is complex
-     * often we prefer a simpler model if it is nearly as good as a more complex model
+[[Trade-offs in statistical learning]]
 
 ## 2.5 Assessing Model Accuracy
 
@@ -44,16 +32,7 @@ We fit $\hat{f}(x)$ to some training data $\text{Tr}=\{ x_i, y_i\}_{i=1}^N$ and 
 
 ## 2.6 Bias-variance trade-off
 
-* we have fit a model $\hat{f}(x)$ to a training set $\text{Tr}$, and we let $(x_0, y_0)$ be a test observation not in the training set
-* if the true model is $Y=f(X)+\epsilon$ (with $f(x)=E(Y|X=x)$), then the expected test MSE at $x_0$ is given by
-	* $E\left( y_0 -\hat{f}(x_0)\right)^2 = \text{Var}(\hat{f}(x_0)) + \text{Bias}^2(\hat{f}(x_0)) + \text{Var}(\epsilon)$
-* the expectation averages over the variability in $y_0$ and over the variability in the training set $\text{Tr}$  
-* note that:  
-	* $\text{Bias}(\hat{f}(x_0)) = E\left( \hat{f}(x_0) \right) - f(x_0)$ and
-	* $\text{Var}(\hat{f}(x_0)) = E\left( \hat{f}(x_0) - E(\hat{f}(x_0))\right)^2$  
-- this variance comes from the fact that $\hat{f}$ is a random quantity that depends on the training set $\text{Tr}$
-* we typically see that as the *flexibility* of $\hat{f}$ increases, the variance increases and the bias decreases
-* so choosing the flexibility based on average test MSE is a trade-off between bias and variance
+[[Bias-variance trade-off in statistical learning]]
 
 ## 2.7 Classification problems
 
@@ -67,7 +46,7 @@ We fit $\hat{f}(x)$ to some training data $\text{Tr}=\{ x_i, y_i\}_{i=1}^N$ and 
     * understand the roles of the different predictors among $X_1, X_2, ..., X_p$
 
 ### 2.7.1 Bayes optimal classifier
-the Bayes optimal classifier is the one that assigns each observation to the most likely class, given its predictor values. In other words, we assign observation $X=x$ to the class for which $Pr(Y=j|X=x)$ is largest.
+[[the Bayes optimal classifier is the one that assigns each observation to the most likely class, given its predictor values]]
 
 ## 2.8 Classification details
 * usually we measure the performance of $\hat{C}$ using the **misclassification error rate**:  

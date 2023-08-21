@@ -1,8 +1,8 @@
 
 
-[[2. Overview of Statistical Learning]] 
-[[3. Linear Regression]]
-[[4. Classification]]
+[[Overview of Statistical Learning]] 
+[[Linear Regression]]
+[[Classification]]
 [[5. Resampling Methods]]
 [[6. Linear Model Selection and Regularization]]
 [[7. Moving Beyond Linearity]]
@@ -11,6 +11,4 @@
 	[[Random forests]]
 	[[Boosting]]
 [[Support Vector Machines (SVMs)]]
-	
-
-	
+[[Deep Learning]]

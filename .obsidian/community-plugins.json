@@ -8,5 +8,6 @@
   "dataview",
   "obsidian-footnotes",
   "cm-editor-syntax-highlight-obsidian",
-  "obsidian-react-components"
+  "obsidian-react-components",
+  "execute-code"
 ]

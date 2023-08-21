@@ -1,4 +1,4 @@
-#RSS 
+#RSS #linear-regression #statistical-learning 
 
 [[Linear regression is a simple approach to supervised learning]]
 [[Linear regression assumes the dependence of Y on X is approximately linear]]
