@@ -1,8 +1,8 @@
-* #standard-errors can also be used to perform #hypothesis-tests on the #coefficients
+* #standard-error's can also be used to perform #hypothesis-test's on the #coefficient's
 
 * the most common #hypothesis-test involves testing:
-    * $H_0$: There is #no-relationship between $X$ and $Y$ #null-hypothesis
-    * $H_1$: There is #some-relationship between $X$ and $Y$ #alternative-hypothesis
+    * $H_0$: There is no relationship between $X$ and $Y$ #null-hypothesis
+    * $H_1$: There is some relationship between $X$ and $Y$ #alternative-hypothesis
 
 * here $H_0$ is called the #null-hypothesis, and is the model where $\beta_1 = 0$
 * $H_1$ is called the #alternative-hypothesis, and is the model where $\beta_1 \neq 0$

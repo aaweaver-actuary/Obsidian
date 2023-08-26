@@ -2,7 +2,7 @@
 
 # Bagging
 - **Bagging** is an abbreviation for **bootstrap aggregation**.
-    - [[5. Resampling Methods#5.8 The bootstrap|The bootstrap]] is normally used to estimate standard errors of parameter estimates.
+    - [[Resampling Methods#5.8 The bootstrap|The bootstrap]] is normally used to estimate standard errors of parameter estimates.
     - In bagging, we use the bootstrap to generate a lot of different training data sets, which reduces the variance of our model.
 - Bagging is a general-purpose procedure for reducing the variance of a statistical learning method.
     - It is introduced here because it is a particularly useful and frequently used in the context of [[8. Tree-Based Methods#8.1 Tree-based Methods|decision trees]].

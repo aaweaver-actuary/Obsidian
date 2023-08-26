@@ -1,0 +1,1 @@
+- this is what makes fitting #deep-learning / #neural-network models hard 

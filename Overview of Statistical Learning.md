@@ -28,7 +28,7 @@ We fit $\hat{f}(x)$ to some training data $\text{Tr}=\{ x_i, y_i\}_{i=1}^N$ and 
 
 * instead, we should compute the average squared prediction error on the *test data*:  
     * $\text{MSE}_{\text{Te}}=\frac{1}{N}\sum_{i=1}^N(y_i-\hat{f}(x_i))^2$
-    * this may be biased towards models that are too inflexible/underfit the data
+    * this may be #bias'ed towards models that are too inflexible/underfit the data
 
 ## 2.6 Bias-variance trade-off
 
@@ -37,7 +37,7 @@ We fit $\hat{f}(x)$ to some training data $\text{Tr}=\{ x_i, y_i\}_{i=1}^N$ and 
 ## 2.7 Classification problems
 
 * here the response variable $Y$ is qualitative
-    * e.g. $Y$ is binary (e.g. spam/not spam)
+    * e.g. $Y$ is #binary (e.g. spam/not spam)
     * e.g. digit class is one of 0,1,2,...,9
 
 * our goal:

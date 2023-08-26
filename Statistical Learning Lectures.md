@@ -3,7 +3,7 @@
 [[Overview of Statistical Learning]] 
 [[Linear Regression]]
 [[Classification]]
-[[5. Resampling Methods]]
+[[Resampling Methods]]
 [[6. Linear Model Selection and Regularization]]
 [[7. Moving Beyond Linearity]]
 [[8. Tree-Based Methods]]
@@ -12,3 +12,4 @@
 	[[Boosting]]
 [[Support Vector Machines (SVMs)]]
 [[Deep Learning]]
+[[Survival analysis concerns a special kind of outcome variable - the time until an event occurs]]

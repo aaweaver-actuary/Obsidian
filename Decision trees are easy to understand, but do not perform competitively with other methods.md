@@ -1,7 +1,7 @@
 
 * #tree based methods are #simple-methods and useful for #interpretability.
 * However, they are typically not competitive with the best #supervised-learning approaches in terms of #prediction-accuracy.
-* Hence, in this chapter we also describe #bagging, #random-forests, and #boosting.
+* Hence, in this chapter we also describe #bagging, #random-forest's, and #boosting.
     * These methods grow multiple trees that are then combined to yield a single consensus prediction.
 * Combining a large number of trees can often result in dramatic improvements in #prediction-accuracy at the expense of some loss in #interpretability.
 

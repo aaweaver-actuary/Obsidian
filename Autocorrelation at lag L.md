@@ -1,0 +1,2 @@
+- The #autocorrelation at lag $\ell$ is the #correlation of all pairs $(v_t, v_{t-\ell})$ that are $\ell$ days apart
+- seeing sizable #autocorrelation gives some confidence that past values will be helpful in predicting the future when doing #time-series forecasting

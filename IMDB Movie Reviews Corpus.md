@@ -1,0 +1,5 @@
+- user-supplied moving ratings for a large collection of movies
+- each has been labeled for #sentiment as positive or negative
+- we get labeled training and testing data sets
+	- each with 25,000 reviews
+	- each balanced WRT #sentiment 

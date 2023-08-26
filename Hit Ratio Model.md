@@ -1,4 +1,4 @@
-- #binary-target - hit/not hit
+- #binary #target - hit/not hit
 - several of the predictors in the dataset won't be available at the time this model runs
     - try to isolate/find variables that aren't going to depend on whether or not there has been a quote/policy written
     - use econ data from fred
@@ -11,7 +11,7 @@
 ## 2023/08/16
 
 - working on class structure for data processing
-- maybe just make sure `s_fmt` gets calculated and binary is good to go??
+- maybe just make sure `s_fmt` gets calculated and #binary is good to go??
 - I think this part is finished
     - now I just need the workflow for univariate analysis
 
@@ -36,6 +36,9 @@
 - [[featuretools likes data to be split into many connected tables]] #featuretools 
 
 [[Meeting with Dan P - 23-08-18]]
+
+[[PyTorch code to fit an embedding to BOP classification codes]]
+
 
 
 [^1]: [[Boosting]] [[Boosting measures the importance of variables]] 

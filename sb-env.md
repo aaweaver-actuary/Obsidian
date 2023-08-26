@@ -1,6 +1,6 @@
 - data process I am writing:
 	1. route each column into 1 of 6 types:
-		1. binary
+		1. #binary
 		2. categorical
 		3. finite numeric
 		4. other numeric
