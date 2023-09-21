@@ -1,0 +1,5 @@
+- Affine refers to functions or transformations that preserve lines and parallelism
+- Can be represented as $f(x) = Ax + b$, $A \in \mathbb{R}^{n\times m}$ and $B\in \mathbb{R}^n$
+- Affine sets themselves are not really [[Convex sets|convex]] (since they are flat)
+	- often appear in the context of [[Optimization|optimization]]
+	- if a [[Convex sets|convex set]] is shifted by an affine subspace, its [[Convex sets|convexity]] is maintained

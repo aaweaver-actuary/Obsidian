@@ -1,4 +1,4 @@
-#svm #support-vector-classifiers 
+[[Support Vector Machines (SVMs)]] #support-vector-classifier
 
 [[Sometimes a linear boundary can fail in a SVM]]
 

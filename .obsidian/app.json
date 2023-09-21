@@ -3,7 +3,10 @@
   "promptDelete": false,
   "userIgnoreFilters": [
     "obsidian-app/node_modules/",
-    "obsidian-app/src/"
+    "obsidian-app/src/",
+    ".env",
+    ".env/",
+    "obsidian-app/"
   ],
   "newFileLocation": "root"
 }

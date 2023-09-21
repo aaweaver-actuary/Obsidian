@@ -8,5 +8,13 @@
   "dataview",
   "obsidian-footnotes",
   "cm-editor-syntax-highlight-obsidian",
-  "obsidian-react-components"
+  "obsidian-react-components",
+  "obsidian-html-plugin",
+  "obsidian-local-rest-api",
+  "obsidian-extract-pdf-highlights",
+  "obsidian-plotly",
+  "note-refactor-obsidian",
+  "execute-code",
+  "tag-wrangler",
+  "obsidian-excalidraw-plugin"
 ]

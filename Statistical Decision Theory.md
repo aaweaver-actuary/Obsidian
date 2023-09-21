@@ -1,0 +1,8 @@
+- $X \in \mathbb{R}^p$ - real-valued random input vector
+- $Y \in \mathbb{R}$ - real-valued random output variable
+- $\text{Pr}(X,Y)$ - joint distribution
+- $L(Y, f(X))$ - [[Loss Functions|loss function]]
+	- By far the most common is [[Squared Error Loss Function|squared error loss]]
+- $\text{EPE}(f)$ - [[Expected Prediction Error (EPE)|expected prediction error]]
+- $f(x) = E[Y|X=x]$ - the [[Regression Function|regression function]]
+- 

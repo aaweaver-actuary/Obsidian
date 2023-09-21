@@ -1,1 +1,2 @@
-#trees #prediction-accuracy #regression #classification #statistical-learning
+
+[[Tree-Based Methods]] [[Prediction Accuracy]] [[Regression]] [[Classification]] 

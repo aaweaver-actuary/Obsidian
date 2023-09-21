@@ -1,1 +1,1 @@
-#ridge #l2-norm #regularization #regression #standardize 
+[[Ridge regularization]] [[l2 Norm]] [[Regularization]] [[Regression]] [[Data Standardization]]

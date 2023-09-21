@@ -1,12 +1,12 @@
-#statistical-learning
 
-The #gradient-vector is defined
+
+The [[Gradient Vector|gradient vector]] is defined
 $$
 \nabla R(\theta^t) = \left. \frac{\partial R(\theta)}{\partial \theta} \right|_{\theta=\theta^t} \hspace{20em}
 $$
 This is the vector of #partial-derivatives at the current guess $\theta^t$
 
-The #gradient points uphill, so our update in the #gradient-descent algorithm is 
+The [[Gradient Vector|gradient vector]] points uphill, so our update in the [[Gradient Descent|gradient descent]] algorithm is
 $$
 \begin{align}
 \delta =& -\rho\nabla R(\theta^t) \hspace{24em}\\

@@ -1,5 +1,3 @@
-#statistical-learning 
-
 - [[Survival analysis concerns a special kind of outcome variable - the time until an event occurs]]
 - For example, if we have conducted a 5-year medical study in which patients have been treated for cancer
 	- We want to fit a model to predict patient survival time, using features like baseline health measurements or type of treatment

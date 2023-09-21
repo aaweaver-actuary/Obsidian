@@ -1,6 +1,5 @@
-#linear 
 
-A #linear-spline with #knots at $\xi_k, \space k=1, \dots, K$ is a piecewise linear polynomial continuous at each knot ([[A spline is continuous at the knots]])
+A #linear-spline with [[Knots in Cubic Splines|knots]] at $\xi_k, \space k=1, \dots, K$ is a piecewise linear polynomial [[A spline is continuous at the knots|continuous at each knot]]
 
 We can represent this model as
 $$

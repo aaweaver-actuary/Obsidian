@@ -1,0 +1,2 @@
+- Eg [[Linear Regression|linear regression]] assumes that the [[Regression Function|regression function]] $E[Y|X]$ is linear in the inputs $X_1, X_2, \dots, X_p$
+- 

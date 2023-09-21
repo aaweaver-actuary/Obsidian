@@ -1,4 +1,4 @@
-#cnn #pooling-layers 
+
 $$
 \text{Max pool } \left[
 \begin{array}{cccc}

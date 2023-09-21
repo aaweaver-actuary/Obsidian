@@ -1,5 +1,4 @@
-#logistic-regression #multi-class-logistic-regression #multi-class 
-## Logistic Regression for $p > 2$
+## [[Logistic Regression]] for $p > 2$
 
 $$
 \begin{align}
@@ -17,6 +16,6 @@ But, for any given balance, students are less likely to default than non student
 
 #### Big idea here:
 
-- When you look at `student` on its own, it is #confounded by `balance`
+- When you look at `student` on its own, it is [[Confounding Variable|confounded by]] `balance`
 - The strong effects of `balance` make it look like `student`'s are worse credit risks
   - But #conditional on `balance`, you see that `student`'s are actually _better_ credit risks

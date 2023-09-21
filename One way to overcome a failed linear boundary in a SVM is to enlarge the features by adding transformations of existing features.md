@@ -1,4 +1,4 @@
-#svm #feature-expansion #feature-engineering 
+[[Support Vector Machines (SVMs)]] #feature-expansion #feature-engineering 
 
 - eg add #polynomial  terms
 - 

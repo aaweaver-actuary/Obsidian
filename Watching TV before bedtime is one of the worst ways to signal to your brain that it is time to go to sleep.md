@@ -1,0 +1,2 @@
+- bodies follow natural circadian rhythm lasting about 25 hours
+- when exposed to bright lights, resets circadian rhythm

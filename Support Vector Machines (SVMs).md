@@ -1,8 +1,6 @@
-#statistical-learning #svm #support-vector-classifiers 
-
-- Here we approach the #binary #target problem in direct way:
+- Here we approach the binary target problem in direct way:
 	- [[Optimal Separating Hyperplanes]]
-- [[Support vector classifier]]
+- [[Support Vector Classifier]]
 	- [[The support vector classifier maximizes a soft margin]]
 	- [[Sometimes a linear boundary can fail in a SVM]]
 - [[Feature expansion and the SVM]]
@@ -10,5 +8,5 @@
 - [[Using SVMs with more than 2 classes]]
 - [[Support vector machines vs logistic regression]]
 
-- #no-free-lunch: with #support-vector-machines we saw a way with #kernels to get a solution in infinite dimensions for free
-	- you do pay a price though - you don't get #feature-selection like you do with #lasso 
+- [[No Free Lunch Theorem]]: with a SVM we saw a way with [[Kernel functions are functions of two variables that compute inner products|kernel functions]] to get a solution in infinite dimensions for free
+	- you do pay a price though - you don't get #feature-selection like you do with [[The Lasso for regularization|the lasso]] 

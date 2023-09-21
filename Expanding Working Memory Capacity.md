@@ -1,0 +1,9 @@
+- video games
+- Cogmed is one such program
+- playing these sorts of games leads to improvements in remember digits
+	- effect lasts 6 months
+- memory match card game
+- i went to china and [action phrase]
+	- next person adds on
+- give kids a sequence of instructions
+- can enhance memory function by giving practice using working memory

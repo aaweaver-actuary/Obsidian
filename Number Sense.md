@@ -1,0 +1,3 @@
+- by starting with this, learning faster, enjoyment greater
+- can train with board games
+- 

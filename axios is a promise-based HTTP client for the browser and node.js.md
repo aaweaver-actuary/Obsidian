@@ -1,4 +1,4 @@
-#nodejs #promises #http #axios #npm
+[[Node.js]] #promises [[HTTP Requests]] [[axios]]
 
 
 [axios npm package](https://www.npmjs.com/package/axios)

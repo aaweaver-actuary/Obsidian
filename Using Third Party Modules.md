@@ -1,20 +1,24 @@
-#nodejs #npm 
+[[Node.js]]
 
-### install #axios:
+### install [[axios]]:
+
 ```js
 npm init // get the package.json
-npm install axios // download from #npm-registry 
+npm install axios // download from #npm-registry
 ```
 
 ### add it to a script:
+
 ```js
 // put this at the top of the script:
-const axios = require('axios');
+const axios = require("axios");
 ```
 
 ### make a `GET` request
+
 ```js
-axios.get('https://www.google.com') 
+axios
+	.get("https://www.google.com")
 	.then((response) => {
 		console.log(response);
 	})
@@ -23,8 +27,8 @@ axios.get('https://www.google.com')
 	})
 	.then(() => {
 		console.log("all done");
-	})
+	});
 ```
 
-- #axios uses #promises syntax (the `.then(() => {})`)
-- 
+- [[axios]] uses #promises syntax (the `.then(() => {})`)
+-

@@ -1,0 +1,1 @@
+Dimension of the [[The Column Space of a Matrix X|column space]] or row space

@@ -59,7 +59,7 @@ annotation-target: pdf/paper-dissected-BERT-pretraining-of-deep-bidirectional-tr
 >%%COMMENT%%
 >
 >%%TAGS%%
->#nlp
+>
 ^84xs3p69jd5
 
 
@@ -73,7 +73,7 @@ annotation-target: pdf/paper-dissected-BERT-pretraining-of-deep-bidirectional-tr
 >%%COMMENT%%
 >In contrast, BERT trains a language model that takes **both the previous and next tokens** into account when predicting
 >%%TAGS%%
->#bert
+>
 ^p0e9wu7ts8a
 
 
@@ -101,7 +101,7 @@ annotation-target: pdf/paper-dissected-BERT-pretraining-of-deep-bidirectional-tr
 >%%COMMENT%%
 >
 >%%TAGS%%
->#bert, #transformer
+>#transformer
 ^bwiciffxut7
 
 
@@ -171,7 +171,7 @@ annotation-target: pdf/paper-dissected-BERT-pretraining-of-deep-bidirectional-tr
 >%%COMMENT%%
 >like word2vec, GloVe
 >%%TAGS%%
->#embedding, #nlp
+>
 ^iivq5u6s3id
 
 

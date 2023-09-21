@@ -1,4 +1,4 @@
-#bert #sentiment-analysis #nlp #deep-learning #question-answering
+[[BERT is short for Bidirectional Encoder Representations from Transformers|BERT]] #sentiment-analysis [[Natural Language Processing (NLP)]] [[Deep Learning]] #question-answering
 
 - Can determine how positive or negative ( #sentiment ) a movie’s reviews are. [(Sentiment Analysis)](https://huggingface.co/blog/sentiment-analysis-python)
 - Helps #chatbots answer your questions. [(Question answering)](https://huggingface.co/tasks/question-answering)

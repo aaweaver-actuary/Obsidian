@@ -1,1 +1,1 @@
-#qualitative-predictors #dummy-variables #trees
+#qualitative-predictor #dummy-variable [[Tree-Based Methods]]

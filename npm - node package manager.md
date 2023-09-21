@@ -1,4 +1,4 @@
-#nodejs #javascript #js #ztm-video #npm #npm-registry 
+[[Node.js]] [[JavaScript]]
 
 [npmjs.com](https://www.npmjs.com)
 

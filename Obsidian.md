@@ -1,2 +1,3 @@
 - [[Obsidian Best Practices]]
-- 
+- [[Template]] (daily template)
+-

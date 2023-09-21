@@ -1,2 +1,2 @@
-#svm #regularization #soft-margin 
+[[Support Vector Machines (SVMs)]] [[Regularization]] #soft-margin 
 

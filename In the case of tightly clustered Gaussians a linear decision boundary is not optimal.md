@@ -1,0 +1,1 @@
+- The optimal [[Decision Boundary|decision boundary]] is nonlinear and disjoint

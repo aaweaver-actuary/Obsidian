@@ -4,34 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "895c5adb102eece9",
+        "id": "45cf036aa4f192b4",
         "type": "tabs",
         "children": [
           {
-            "id": "c5aab9c17c34923b",
-            "type": "leaf",
-            "state": {
-              "type": "pdf-annotator",
-              "state": {
-                "file": "Intro to Statistical Learning Ch2 - Statistical Learning.md"
-              }
-            }
-          },
-          {
-            "id": "1ce9007ae69c5ed5",
+            "id": "ae6392fbf34b5d53",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Intro to Statistical Learning Ch2 - Statistical Learning.md",
+                "file": "Organism Model.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -60,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#double-descent",
+                "query": "tag:#l2",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Intro to Statistical Learning Ch2 - Statistical Learning.md",
+                "file": "Organism Model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Intro to Statistical Learning Ch2 - Statistical Learning.md",
+                "file": "Organism Model.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,11 +127,22 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Intro to Statistical Learning Ch2 - Statistical Learning.md"
+                "file": "Organism Model.md"
+              }
+            }
+          },
+          {
+            "id": "180a0cda27c7124c",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -156,57 +156,60 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-extract-pdf-highlights:PDF Highlights": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1ce9007ae69c5ed5",
+  "active": "ae6392fbf34b5d53",
   "lastOpenFiles": [
-    "daily/2023-08-26.md",
-    "Intro to Statistical Learning Ch2 - Statistical Learning.md",
-    "Double Descent.md",
+    "Evolution Simulation.md",
+    "Organism Model.md",
+    "Conditions required for evolution.md",
+    "daily/2023-09-21.md",
+    "Children's Math Skill.md",
+    "Number Sense.md",
+    "daily/2023-09-19.md",
+    "Overview of Supervised Learning.md",
+    "The Elements of Statistical Learning.md",
+    "Step Functions.md",
+    "daily/2023-09-16.md",
+    "Expanding Working Memory Capacity.md",
+    "daily/2023-09-18.md",
+    "Working Memory.md",
+    "Children's Memory.md",
+    "Linear Regression.md",
+    "daily/2023-09-15.md",
+    "Additive Error Model.md",
+    "Hierarchical Clustering - Choice of Dissimilarity Measure.md",
+    "Overview of Statistical Learning.md",
+    "Hugging Face script to fine-tune BERT for text classification.md",
+    "GAMs are a generalization of linear models that allow for flexible nonlinearities in several variables, without losing the additivity of a linear model.md",
+    "Document Classification.md",
+    "Decision trees are easy to understand, but do not perform competitively with other methods.md",
+    "Boosting is a general procedure and idea.md",
+    "Boosting for classification trees.md",
+    "Excalidraw",
+    "docs",
+    "Pasted image 20230831050836.png",
+    "Pasted image 20230829050151.png",
+    "Pasted image 20230829043415.png",
+    "Pasted image 20230828072709.png",
+    "pdf/intro-to-statistical-learning/ch05-resampling-methods.pdf",
+    "pdf/intro-to-statistical-learning/imports.py",
     "pdf/intro-to-statistical-learning/ch02-statistical-learning.ipynb",
-    "Introduction to Statistical Learning.md",
     "pdf/intro-to-statistical-learning/index.pdf",
     "pdf/intro-to-statistical-learning/ch13-multiple-testing.pdf",
     "pdf/intro-to-statistical-learning/ch12-unsupervised-learning.pdf",
     "pdf/intro-to-statistical-learning/ch11-survival-analysis-and-censored-data.pdf",
     "pdf/intro-to-statistical-learning/ch10-deep-learning.pdf",
-    "pdf/intro-to-statistical-learning/ch09-support-vector-machines.pdf",
-    "pdf/intro-to-statistical-learning/ch08-tree-based-methods.pdf",
-    "pdf/intro-to-statistical-learning/ch07-moving-beyond-linearity.pdf",
-    "pdf/intro-to-statistical-learning/ch06-linear-model-selection-and-regularization.pdf",
-    "2023-08-16.md",
-    "components/DateLink.md",
-    "Survival analysis concerns a special kind of outcome variable - the time until an event occurs.md",
-    "Model Evaluation and Further Topics.md",
-    "Estimation of Cox Model with Examples.md",
-    "Proportional Hazards Model.md",
-    "Intro to survival data and censoring.md",
-    "Kaplan-Meier.md",
-    "The survival curve.md",
-    "A closer look at censoring -- does censoring bias our analysis.md",
-    "Survival and censoring times.md",
-    "Non-medical applications of survival analysis.md",
-    "Interview with David Cox.md",
-    "Statistical Learning Lectures.md",
-    "Interpolation and Double Descent.md",
-    "High signal-to-noise ratio examples.md",
-    "Stochastic gradient flow.md",
-    "You see less wiggly solutions with double descent.md",
-    "Boosting is a general procedure and idea.md",
-    "Deep Learning.md",
-    "daily/2023-08-25.md",
     "1 ccHxugJhQo7VH4GAAZt3Sg.png",
     "rnn_orig.png",
     "Typical-CNN-Architecture-1536x562.png",
     "obsidian-app/public/vercel.svg",
     "obsidian-app/public/next.svg",
     "Pasted image 20230819063210.png",
-    "Pasted image 20230819060718.png",
-    "Pasted image 20230819060344.png",
-    "index_22_0.svg",
     "Untitled 1.canvas",
-    "Untitled.canvas",
-    "Pasted image 20230818042537.png"
+    "Untitled.canvas"
   ]
 }

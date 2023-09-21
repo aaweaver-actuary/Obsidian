@@ -1,12 +1,10 @@
-#recurrent-neural-network 
-
-- data often arise as #sequences:
+- data often arise as #sequence's:
 	- documents are sequences of words, and relative positions have meaning
 	- #time-series data such as weather data or financial indices
 	- recorded speech or music
 	- handwritten doctors' notes
-- #rnn's build models that take into account this sequential nature of the data and build a memory of the past
-- the feature for each observation is a #sequence-of-vectors $X=\{X_1, X_2, \dots, X_L \}$
+- [[Recurrent Neural Networks]] build models that take into account this sequential nature of the data and build a memory of the past
+- the feature for each observation is a #sequence of vectors $X=\{X_1, X_2, \dots, X_L \}$
 - the #target $Y$ is often of the usual kind -- a single variable or a #one-hot-encoded variable for #multi-class 
 	- however $Y$ can also be itself a #sequence 
 		- eg the same document in a different language 

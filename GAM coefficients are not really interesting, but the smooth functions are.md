@@ -1,1 +1,1 @@
-#GAMs #generalized-additive-models 
+#GAM #generalized-additive-model

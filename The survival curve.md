@@ -1,4 +1,4 @@
-#statistical-learning #survival-analysis 
+[[Survival Analysis]]
 
 - The #survival-function or #survival-curve is defined as
 	- $S(t) = \text{Pr}(T > t)$

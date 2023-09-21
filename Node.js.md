@@ -1,4 +1,4 @@
-#nodejs #javascript #js 
+[[Node.js]] [[JavaScript]]
 
 [[the node event loop handles callback functions and allows for async operations]]
 

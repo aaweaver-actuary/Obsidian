@@ -1,0 +1,1 @@
+the testing error is the [[Mean Squared Error (MSE)|mean error]] that results from using a statistical learning method to predict the response on a new observation, one that was not used in training the method

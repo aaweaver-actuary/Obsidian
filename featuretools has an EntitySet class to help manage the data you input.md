@@ -1,4 +1,4 @@
-#featuretools #alteryx 
+[[featuretools is a package for automating feature engineering]]
 
 1. [initialize](https://featuretools.alteryx.com/en/stable/getting_started/using_entitysets.html#Creating-an-EntitySet)
 

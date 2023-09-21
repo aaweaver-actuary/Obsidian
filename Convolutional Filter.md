@@ -1,4 +1,4 @@
-#cnn #statistical-learning
+[[Convolutional Neural Networks]]
 
 $$
 \begin{align}
@@ -33,16 +33,16 @@ g\alpha+h\beta+j\gamma+k\delta & h\alpha+i\beta+k\gamma+l\delta
 \end{align}
 $$
 
-- the #convolutional-filter itself is an image
+- the convolutional filter itself is an image
     - represents a small shape, edge, etc[^1]
     - it is small -- here 2x2
 - we slide the filter around the input image, scoring for matches
-    - the scoring is done via #dot-products, as shown above
-- if the subimage of the input image is similar to the filter, the score is high, otherwise it is low
-- the #convolutional-filter is learned during training
-- the idea of a #convolution with a #convolutional-filter is to find common patterns that occur in different parts of the image
-- since images have three color channels (red, green, blue), the #convolutional-filter does as well
-    - one #convolutional-filter per channel, and #dot-products are summed
-- the #weights in the #convolutional-filter are learned by the #neural-network
+    - the scoring is done via the #dot-product, as shown above
+- if the sub-image of the input image is similar to the filter, the score is high, otherwise it is low
+- the convolutional filter is learned during training
+- the idea of a #convolution with a [[Convolutional Filter|convolutional filter]] is to find common patterns that occur in different parts of the image
+- since images have three color channels (red, green, blue), the convolutional filter does as well
+    - one convolutional filter per channel, and the #dot-product's are summed
+- the #weight's in the [[Convolutional Filter|convolutional filter]] are learned by the [[Neural Networks|neural network]]
 
-[^1]: [[How CNNs work]]
+[^1]: [[How Convolutional Neural Networks Work]]

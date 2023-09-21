@@ -1,0 +1,1 @@
+A matrix whose [[Matrix Rank|rank]] is the maximum possible - lesser of the number of rows and the number of columns

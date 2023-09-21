@@ -1,14 +1,14 @@
-#statistical-learning 
 
-1. #prediction-accuracy  vs #interpretability 
-    - #linear-regression is highly interpretable
-    * #random-forest  is not interpretable
 
-2. #underfitting vs #overfitting 
-    - #linear-regression is prone to #underfitting
-    * #random-forest is prone to #overfitting
+1. prediction accuracy vs interpretability
+       - [[Linear Regression|Linear regression]] is highly interpretable
+       \* [[Random Forests|Random Forests]] is not interpretable
 
-3. #parsimony vs #complexity
-     * #linear-regression is parsimonious
-     * #random-forest is complex
-     * often we prefer a simpler model if it is nearly as good as a more complex model
+2. underfitting vs overfitting
+       - [[Linear Regression|Linear regression]] is prone to underfitting
+       \* [[Random Forests|Random forests]] is prone to [[Overfitting|overfitting]]
+
+3. parsimony vs complexity
+        * [[Linear Regression|Linear regression]] is parsimonious
+        * [[Random Forests|Random forests]] is complex
+        \* often we prefer a simpler model if it is nearly as good as a more complex model

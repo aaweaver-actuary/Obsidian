@@ -11,9 +11,9 @@
 ## 2.3 Parametric & structured models
 * the **linear** model is an example of a **parametric** model:
   * $f_L(X) = \beta_0 + \beta_1 X_1 + \dots + \beta_p X_p$
-* a linear model is specified in terms of $p+1$ parameters $\beta_0, \dots, \beta_p$
+* a [[Linear Model|linear model]] is specified in terms of $p+1$ parameters $\beta_0, \dots, \beta_p$
 * estimate the parameters by fitting the model to the training data
-* although it is almost never correct, a #linear-model often serves as a good and interpretable approximation to the unknown true function $f(X)$
+* although it is almost never correct, a [[Linear Model|linear model]] often serves as a good and interpretable approximation to the unknown true function $f(X)$
 
 ## 2.4 Trade-offs:
 [[Trade-offs in statistical learning]]
@@ -22,22 +22,22 @@
 
 We fit $\hat{f}(x)$ to some training data $\text{Tr}=\{ x_i, y_i\}_{i=1}^N$ and we want to see how well $\hat{f}(x)$ performs on a test data set $\text{Te}=\{ x_i, y_i\}_{i=1}^N$:  
 
-* we could compute the **average squared prediction error** on the *training data*:  
+* we could compute the [[Mean Squared Error (MSE)|average squared prediction error]] on the *training data*:  
 	* $\text{MSE}_{\text{Tr}}=\frac{1}{N}\sum_{i=1}^N(y_i-\hat{f}(x_i))^2$
 	- this may be biased towards models that are too flexible/overfit the data  
 
 * instead, we should compute the average squared prediction error on the *test data*:  
     * $\text{MSE}_{\text{Te}}=\frac{1}{N}\sum_{i=1}^N(y_i-\hat{f}(x_i))^2$
-    * this may be #bias'ed towards models that are too inflexible/underfit the data
+    * this may be [[Bias|biased]] towards models that are too inflexible/underfit the data
 
 ## 2.6 Bias-variance trade-off
 
 [[Bias-variance trade-off in statistical learning]]
 
-## 2.7 Classification problems
+## 2.7 [[Classification]] problems
 
 * here the response variable $Y$ is qualitative
-    * e.g. $Y$ is #binary (e.g. spam/not spam)
+    * e.g. $Y$ is binary (e.g. spam/not spam)
     * e.g. digit class is one of 0,1,2,...,9
 
 * our goal:
@@ -55,10 +55,10 @@ We fit $\hat{f}(x)$ to some training data $\text{Tr}=\{ x_i, y_i\}_{i=1}^N$ and 
         * only true when the Bayes classifier is known, which is usually not the case.
 
 * later in the course:
-    * SVM's build structured models for $C$ that attempt to minimize the error rate.
-    * we will also build structured models for $p_k(x)$, such as logistic regression and generalized additive models.
+    * [[Support Vector Machines (SVMs)|Support vector machines]] build structured models for $C$ that attempt to minimize the error rate.
+    * we will also build structured models for $p_k(x)$, such as [[Logistic Regression|logistic regression]] and [[GAMs are a generalization of linear models that allow for flexible nonlinearities in several variables, without losing the additivity of a linear model|generalized additive models]].
 
 ## 2.9 Summary
-* **k-nearest neighbors** is a simple and effective method for classification.
+* [[k-Nearest Neighbors|k-nearest neighbors]] is a simple and effective method for [[Classification|classification]].
     * in about 1/3 of the problems we will encounter, it will be about as accurate as the best methods.
 

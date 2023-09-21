@@ -1,0 +1,5 @@
+- [[Statistical Decision Theory|Statistical decision theory]] requires a loss function to penalize errors in prediction
+- [[Squared Error Loss Function]]
+	- By far the most common and convenient
+- [[Absolute Error Loss Function]]
+- 

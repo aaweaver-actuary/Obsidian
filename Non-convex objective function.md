@@ -1,1 +1,1 @@
-- this is what makes fitting #deep-learning / #neural-network models hard 
+- this is what makes fitting [[Deep Learning|deep learning]] / [[Neural Networks|neural network]] models hard 

@@ -1,8 +1,8 @@
-#boosting #tree #classification #statistical-learning 
+[[Boosting]] [[Tree-Based Methods]] [[Classification]]  
 
-- Similar in spirit to #boosting for regression, but a bit more complex
+- Similar in spirit to [[Boosting|boosting]] for [[Regression|regression]], but a bit more complex
 
 > [!info]
 >
 > -   Don't go into detail in [[Statistical Learning Lectures]] or in the [[Introduction to Statistical Learning]] book
-> -   See [[Elements of Statistical Learning]], Ch10
+> -   See [[The Elements of Statistical Learning]] Ch10

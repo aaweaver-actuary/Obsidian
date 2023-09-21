@@ -1,0 +1,3 @@
+- We cannot use [[Residual Sum of Squares (RSS)|sum of squares]] on the training data to pick $k$
+	- We would always pick $k=1$ since [[Training Error|training error]] is always 0
+	- ultimately the answer is [[k-fold Cross Validation|cross validation]]

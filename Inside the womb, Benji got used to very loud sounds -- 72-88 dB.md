@@ -1,0 +1,2 @@
+- louder than a typical vacuum cleaner
+- just a very little bit quieter than a lawnmower

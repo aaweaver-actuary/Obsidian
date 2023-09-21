@@ -5,3 +5,5 @@
 Andy's Brain/*
 Andy's Brain
 .obsidian/themes/Andy's Brain
+node_modules/
+.env/

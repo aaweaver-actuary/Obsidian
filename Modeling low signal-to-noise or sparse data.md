@@ -1,0 +1,1 @@
+- [[Linear Regression|Linear regression]] often outperforms more complex nonlinear methods in this case

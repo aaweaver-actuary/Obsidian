@@ -1,4 +1,3 @@
-#sgd #regularization #ridge 
 
-- this refers to the entire path of #sgd solutions
-- this is somewhat similar to #ridge path
+- this refers to the entire path of [[Stochastic Gradient Descent (SGD)|SGD]] solutions
+- this is somewhat similar to [[Ridge regularization|ridge]] path

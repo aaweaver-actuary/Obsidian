@@ -2,7 +2,7 @@
 defines-react-components: true
 ---
 
-#react #js #components
+#react [[JavaScript]] #components
 
 [input - MDN docs](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/text)
 

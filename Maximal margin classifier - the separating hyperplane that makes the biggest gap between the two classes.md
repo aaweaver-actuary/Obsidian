@@ -15,5 +15,5 @@ y_i(\beta_0 + \beta_1x_{i1}+\cdots+\beta_px_{ip}) \ge M\\
 $$
 
 - This can be rephrased as a #convex-quadratic-program and solved efficiently
-- In #R, the function `svm()` in the `e1071` package solves this problem efficiently
-- In #python, the function `SVC()` in the `sklearn.svm` package solves this problem efficiently
+- In [[R]], the function `svm()` in the `e1071` package solves this problem efficiently
+- In [[Python]], the function `SVC()` in the `sklearn.svm` package solves this problem efficiently

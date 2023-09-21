@@ -1,4 +1,4 @@
-#deep-learning #statistical-learning #neural-network 
+[[Neural Networks]]
 
 [[Single-Layer Neural Network]]
 [[Details of the output layer in a neural network]]

@@ -1,1 +1,1 @@
-#masked-language-model #bert #mlm 
+[[BERT is short for Bidirectional Encoder Representations from Transformers]]

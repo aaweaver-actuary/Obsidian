@@ -1,4 +1,4 @@
-#hit-ratios/data 
+#hit-ratio
 - this is the final version of the #quote-number
 
 #submission #rated #quote

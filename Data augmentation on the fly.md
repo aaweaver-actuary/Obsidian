@@ -1,4 +1,4 @@
-#statistical-learning 
 
-- Data #augmentation is especially effective with #sgd 
+
+- Data augmentation is especially effective with [[Stochastic Gradient Descent (SGD)|stochastic gradient descent]]
 - 

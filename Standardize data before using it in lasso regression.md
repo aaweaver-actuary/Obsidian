@@ -1,1 +1,1 @@
-#lasso #l1-norm #regularization #regression #standardize 
+[[The Lasso for regularization]] [[Regularization]] [[Regression]] [[Data Standardization]] 

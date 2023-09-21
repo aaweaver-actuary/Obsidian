@@ -1,0 +1,7 @@
+- It might happen that the columns of $\mathbf{X}$ are not [[Linearly Independent|linearly independent]]
+	- Thus $\mathbf{X}$ is not of [[Full Rank Matrix|full rank]]
+	- This would occur if two of the inputs were perfectly correlated
+	- Then $\mathbf{X}^T\mathbf{X}$ is [[Singular Matrix|singular]], and the [[Ordinary Least Squares (OLS)|least squares]] coefficients are not [[How do we minimize the residual sum of squares (RSS)|uniquely defined]]
+	- In this case the fitted values $\hat{\mathbf{y}} = \mathbf{X}\hat{\beta}$ are still the [[Geometric Representation of the Least Squares Estimate|projection]] of $\mathbf{y}$ onto the [[The Column Space of a Matrix X|column space]] of $\mathbf{X}$
+		- There is just more than one way to express the projection in terms of the column vectors of $\mathbf{X}$
+- The non-[[Full Rank Matrix|full-rank]] case occurs most often when one or more qualitative inputs are coded in a redundant fashion

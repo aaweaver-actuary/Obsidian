@@ -1,3 +1,3 @@
-#prior-distribution #posterior-distribution  #mcmc #bayesian
+[[Prior Distribution]] [[Posterior Distribution]] [[Bayesian]]
 
 [[Markov Chain Monte Carlo (MCMC)]]

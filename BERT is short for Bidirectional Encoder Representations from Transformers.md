@@ -2,7 +2,7 @@
 annotation-target::https://arxiv.org/pdf/1810.04805.pdf
 ---
 
-#bert #transformer #deep-learning #nlp
+[[BERT is short for Bidirectional Encoder Representations from Transformers|BERT]] #transformer [[Deep Learning]] [[Natural Language Processing (NLP)]]
 
 [[BERT is a Swiss-Army knife that can be used on a wide variety of nlp tasks]]
 
@@ -158,7 +158,7 @@ annotation-target::https://arxiv.org/pdf/1810.04805.pdf
 >* trained on downstream tasks by simply fine-tuning all pretrained parameters
 >* this is what GPT is
 >%%TAGS%%
->#fine-tuning, #gpt
+>#fine-tune, #gpt
 ^xituzy7wohf
 
 
@@ -230,7 +230,7 @@ annotation-target::https://arxiv.org/pdf/1810.04805.pdf
 >%%COMMENT%%
 >**benefit of BERT:** uses masked language model pre-training objective
 >%%TAGS%%
->#bert, #mlm, #masked-language-model, #objective-function
+>#objective-function
 ^svpd6lrl9g
 
 
@@ -244,5 +244,5 @@ annotation-target::https://arxiv.org/pdf/1810.04805.pdf
 >%%COMMENT%%
 >**point of MLM:** can use context from both the left and the right
 >%%TAGS%%
->#mlm
+>
 ^2rn8t9wp38

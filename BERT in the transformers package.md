@@ -1,4 +1,4 @@
-#bert #transformer #python 
+[[BERT is short for Bidirectional Encoder Representations from Transformers|BERT]] #transformer [[Python]] 
 
 [Hugging Face documentation](https://huggingface.co/bert-base-cased)
 
@@ -44,7 +44,7 @@ encoded_input = tokenizer(text, return_tensors='pt')
 output = model(**encoded_input)
 ```
 
-This is how to #fine-tune #bert-base-cased on #amazon #sagemaker:
+This is how to #fine-tune #bert-base-cased on [[Amazon]] [[Amazon Sagemaker|Sagemaker]]:
 
 ```python
 import sagemaker

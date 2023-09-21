@@ -1,11 +1,11 @@
-#statistical-learning 
 
-- **Slow Learning** - #gradient-descent is slow, and a small #learning-rate $\rho$ slows it even more
-	- along with #early-stopping, this is a form of #regularization 
-- #stochastic-gradient-descent or #sgd - rather than compute the #gradient using all the data, use a small #minibatch drawn at random at each step
+
+- **Slow Learning** - [[Gradient Descent|Gradient descent]] is slow, and a small #learning-rate $\rho$ slows it even more
+    - along with #early-stopping, this is a form of [[Regularization|regularization]]
+- [[Stochastic Gradient Descent (SGD)|Stochastic gradient descent]] or SGD - rather than compute the [[Gradient Vector|gradient vector]] using all the data, use a small #minibatch drawn at random at each step
 - an #epoch is a count of iterations and amounts to the number of #minibatch updates such that $n$ samples in total have been processed
-- #regularization - #ridge and #lasso #regularization can be used to shrink the #weights at each layer
-	- two other popular forms of #regularization:
-		- [[Dropout is a form of regularization]]
-		- [[Augmentation is a form of regularization]]
-- 
+- [[Regularization]] - [[Ridge regularization|ridge]] and [[The Lasso for regularization|lasso]] [[Regularization|regularization]] can be used to shrink the #weight's at each layer
+    - two other popular forms of [[Regularization|regularization]]:
+        - [[Dropout is a form of regularization]]
+        - [[Augmentation is a form of regularization]]
+-

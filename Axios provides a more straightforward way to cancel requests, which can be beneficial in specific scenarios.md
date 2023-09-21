@@ -1,1 +1,1 @@
-#js #axios #http 
+[[JavaScript]] [[axios]] [[HTTP Requests]]

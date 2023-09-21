@@ -1,8 +1,8 @@
 # [[Statistical Learning Lectures]]
 
 * Random forests provide an improvement over [[Bagging|bagged]] trees by way of a small tweak that decorrelates the trees.
-    * This [[6. Linear Model Selection and Regularization|reduces the variance]] when we average the trees.
-* As in [[Bagging|bagging]], we build a number of [[8. Tree-Based Methods#8.1.2 The Basics of Decision Trees|decision trees]] on [[Resampling Methods#5.8 The bootstrap|bootstrapped]] training samples
+    * This [[Linear Model Selection and Regularization|reduces the variance]] when we average the trees.
+* As in [[Bagging|bagging]], we build a number of [[Tree-Based Methods#8.1.2 The Basics of Decision Trees|decision trees]] on [[Resampling Methods#5.8 The bootstrap|bootstrapped]] training samples
 * But when building these decision trees, each time a split in a tree is considered, **a random selection of** $m$ **predictors** is chosen as split candidates from the full set of $p$ predictors.
 	* The split is allowed to use only one of those $m$ predictors
 * A fresh selection of $m$ predictors is taken at each split
@@ -24,7 +24,7 @@
 - They randomly divided the observations into a training and a test set, and applied random forests to the training set for three different values of the number of splitting variables $m$
 
 #### Nice thing about random forest/[[Bagging|bagging]]:
-- you really can't overfit by adding too many trees
-- each tree is a relatively weak learner
+- you really can't [[Overfitting|overfit]] by adding too many [[Tree-Based Methods|trees]]
+- each [[Tree-Based Methods|tree]] is a relatively weak learner
 - at some point the variance will stop *decreasing*, but it also won't hurt you
 - so you look at the out-of-bag errors to figure out when you have gone far enough

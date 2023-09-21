@@ -1,4 +1,4 @@
-#eda #binary #target
+[[Exploratory Data Analysis (EDA)]]
 
 [[EDA for binary target, binary feature]]
 

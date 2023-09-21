@@ -1,8 +1,8 @@
 
 - We need to estimate $\pi_k$, $\mu_k$, and $\sigma^2$.
 - $\pi_k$ is just the proportion of the training observations that belong to class $k$.
-- $\mu_k$ is the #mean of $X$ for the training observations in class $k$.
-- $\sigma^2$ is the #mean of the #sample-variance for each of the $K$ classes.
+- $\mu_k$ is the mean of $X$ for the training observations in class $k$.
+- $\sigma^2$ is the mean of the [[Variance|sample variance]] for each of the $K$ classes.
 
 $$
 \begin{align}
@@ -13,12 +13,12 @@ $$
 \end{align}
 $$
 
-- $\hat{\sigma}_k^2$ is the #sample-variance for the observations in the $k$th class.
+- $\hat{\sigma}_k^2$ is the [[Variance|sample variance]] for the observations in the $k$th class.
 - $n_k$ is the number of observations in the $k$th class.
 - $n$ is the total number of observations.
 - $K$ is the number of classes.
-- $\hat{\sigma}^2$ is a #weighted-average of the #sample-variance for each of the $K$ classes.
+- $\hat{\sigma}^2$ is a #weighted-average of the [[Variance|sample variance]] for each of the $K$ classes.
   - the weights are the proportions of observations in each class.
-  - this is the pooled estimate of variance.
+  - this is the pooled estimate of [[Variance|variance]].
 - the pooled estimate of variance is a weighted average of the sample variances for each of the $K$ classes.
   - the weights are the proportions of observations in each class.

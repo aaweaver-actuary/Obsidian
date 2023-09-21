@@ -1,1 +1,1 @@
-#svm #hyperplane #n-less-than-p
+[[Hyperplane|hyperplane]] 

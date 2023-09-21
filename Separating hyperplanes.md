@@ -1,4 +1,4 @@
-#statistical-learning #svm 
+[[Support Vector Machines (SVMs)]]
 
 If
 
@@ -6,7 +6,7 @@ $$
 f(X)= \beta_0 + \beta_1X_1 + \cdots + \beta_pX_p
 $$
 
-then $f(X)>0$ for points on one side of the #hyperplane and $f(X) < 0$ for points on the other side
+then $f(X)>0$ for points on one side of the [[Hyperplane|hyperplane]] and $f(X) < 0$ for points on the other side
 
 ![[Pasted image 20230818042537.png]]
 
@@ -18,4 +18,4 @@ Y_i\cdot f(X_i) > 0 \space \text{ for all } i
 \end{align}
 $$
 
-then $f(X)=0$ defines a #separating-hyperplane
+then $f(X)=0$ defines a [[Separating hyperplanes|separating hyperplane]]
