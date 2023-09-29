@@ -1,4 +1,4 @@
-- at each [[Stochastic Gradient Descent (SGD)|stochastic gradient descent]] update, randomly remove #node's with probability $\phi$ and scale up the #weight's of the remaining #node's by $1/(1-\phi)$ to compensate
+- at each [[Stochastic Gradient Descent (SGD)|stochastic gradient descent]] update, randomly remove nodes with probability $\phi$ and scale up the [[Weights|weights]] of the remaining nodes by $1/(1-\phi)$ to compensate
 - in simple scenarios like [[Linear Regression|linear regression]], a version of this process can be shown to be [[Equivalent regularization methods|equivalent]] to [[Ridge regularization|ridge regularization]]
 - as in [[Ridge regularization|ridge]], the other units stand in for those temporarily removed, and their weights are drawn closer together[^1]
 - similar in concept to randomly omitting variables when growing [[Tree-Based Methods|trees]] in [[Random Forests|random forests]]

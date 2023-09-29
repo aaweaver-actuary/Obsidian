@@ -1,0 +1,8 @@
+- don't increase exercise
+	- reduce time spent in sedentary activities
+	- small changes over time cause a large cumulative impact
+- use a point system
+	- when you exercise you get points
+		- or better -> when you don't sit and play video games, you get points
+	- enough points -> prize
+- 

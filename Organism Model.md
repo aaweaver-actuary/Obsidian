@@ -4,7 +4,12 @@ class Organism:
 		"""
 		Class Attributes:
 		----------------
-		loc
+		loc : tuple
+			Location of the organism in the world.
+		genome : Genome
+			The genome of the organism.
 		"""
-		self.loc = [0,0]
+		self.loc = None
+		self.genome = Genome()
+		self.brain = Brain()
 ```

@@ -13,7 +13,7 @@
 
 - $y=\sin (x) + \varepsilon$ with $x \sim U[-5, 5]$ and $\varepsilon \sim N(\mu, \sigma=0.3)$
 - training set $n=20$, test set very large ($n > 10,000$)
-- fit a #natural-cubic-spline to the data[^1] with $d$ #degrees-of-freedom 
+- fit a [[Natural cubic splines add extra constraints to cubic splines to pick boundary knots automatically|natural cubic spline]] to the data[^1] with $d$ [[Degrees of Freedom|degrees of freedom]]
 	- ie a [[Linear Regression|linear regression]] onto $d$ #basis-function's:
 $$
 \begin{align}

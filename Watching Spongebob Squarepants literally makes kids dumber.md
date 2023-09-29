@@ -1,0 +1,12 @@
+- watching flashy, fast-paced programs like Spongebob reduces ability to focus their attention & hinders performance on problem-solving tasks
+- 3 groups (9 minutes)
+	- Spongebob (fast-paced)
+	- Caillu (shower-paced)
+	- 9 minutes of paper & crayons
+- then:
+	- digit-span task
+	- tower of hanoi task
+	- marshmallow task
+- crayons were best at all
+	- Caillu was close
+- Spongebob significantly worse

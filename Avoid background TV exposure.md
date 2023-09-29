@@ -1,0 +1,6 @@
+- 39% have TV on in the background all day long
+- kids don't necessarily pay attention
+- parents tend to interact with their children LESS when TV on in background
+- establish screen-free zones
+	- no screens in bedrooms at all
+	- put main TV in less central location (behind a cabinet)

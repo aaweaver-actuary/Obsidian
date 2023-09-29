@@ -1,3 +1,5 @@
 - by starting with this, learning faster, enjoyment greater
 - can train with board games
-- 
+- develop children's number sense as they are beginning their journey of understanding the world of numbers
+- [[Hundred Board]]
+- to strengthen number sense, spend time playing with hundred board or other manipulable toys

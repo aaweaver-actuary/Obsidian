@@ -1,0 +1,3 @@
+- Given the wide variety of different types of games:
+	- It depends
+- There are reasons to believe that video games can be useful for [[Video game play can have positive impact on children's perceptive and cognitive development|enhancing development]] 

@@ -1,0 +1,2 @@
+- [[Local Attributions - Explanation for behavior or outcome is situation-specific]]
+- [[Global Attributions - Explanation is broad and generalizes across situations]]

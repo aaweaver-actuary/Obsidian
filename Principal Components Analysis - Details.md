@@ -1,4 +1,4 @@
-[[Unsupervised Learning]] [[Principal Components Analysis]]
+[[Unsupervised Learning]] [[Principal Components Analysis (PCA)]]
 
 - the first [[Principal Components|principal component]] of a set of features $X_1, X_2, \dots, X_p$ is the #normalized[^1] [[Linear Combination|linear combination]] of the features:$$
 Z_1 = \phi_{11}X_1 + \phi_{21}X_2 + \cdots + \phi_{p1}X_p \hspace{12em}

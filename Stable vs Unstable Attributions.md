@@ -1,0 +1,2 @@
+- [[Stable Attributions - Likely to apply in the future as much as it does today]]
+- [[Unstable Attributions - Got lucky, unlikely to always be lucky]]

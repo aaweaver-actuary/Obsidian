@@ -1,6 +1,6 @@
-#hit-ratio [[Exploratory Data Analysis (EDA)]]
+[[Exploratory Data Analysis (EDA)]]
 
-## from #ChatGPT
+## from ChatGPT
 
 1. Mean Squared Error [[Mean Squared Error (MSE)|MSE]] from [[Logistic Regression]]
 2. Mutual Information

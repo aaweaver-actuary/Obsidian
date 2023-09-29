@@ -1,0 +1,2 @@
+A child could [[Attributional Style - How we think about success and failure|attribute]] a poor grade on a test to not being smart
+- This is more common in older individuals who have a more formed concept of enduring traits.

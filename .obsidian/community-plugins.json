@@ -16,5 +16,7 @@
   "note-refactor-obsidian",
   "execute-code",
   "tag-wrangler",
-  "obsidian-excalidraw-plugin"
+  "obsidian-excalidraw-plugin",
+  "obsidian-style-settings",
+  "find-unlinked-files"
 ]

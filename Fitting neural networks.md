@@ -1,6 +1,6 @@
 [[Deep Learning]] 
 
-For even a simple [[Neural Networks|neural network]] this is complicated. Want to learn #weight's and [[Bias|biases]] based on minimizing [[Total Sum of Squares (TSS)|total sum of squares]]:
+For even a simple [[Neural Networks|neural network]] this is complicated. Want to learn [[Weights|weights]] and [[Bias|biases]] based on minimizing [[Total Sum of Squares (TSS)|total sum of squares]]:
 $$
 \min_{\{w_k \}_1^K, \beta} \frac{1}{2}\sum_{i=1}^n \left( y_i - f(x_i)\right)^2 \hspace{18em}
 $$

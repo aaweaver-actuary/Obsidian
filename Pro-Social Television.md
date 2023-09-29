@@ -1,0 +1,2 @@
+- Programs with helping others, etc
+- Watching more pro-social programming makes engaging in them more common

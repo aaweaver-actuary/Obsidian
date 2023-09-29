@@ -1,12 +1,12 @@
-[[Neural Networks]] #imdb-reviews
+[[Neural Networks]]
 
-- not going to use the #bag-of-words-model 
+- not going to use the bag of words model 
 - the document feature is a sequence of words $\{ \mathcal{W}\}_1^L$
 - we typically truncate or pad the documents to be the same number $L$ of words
 	- here we use $L=500$
-- each word $\mathcal{W}_{\ell}$ is represented as a #one-hot-encoded binary feature vector $X_{\ell}$ of length 10,000, with all zeros and a single 1 in the position for that word in the dictionary
-	- eg #dummy-variable's 
-- this results in an extremely #sparse feature representation, which would not work well
+- each word $\mathcal{W}_{\ell}$ is represented as a one-hot encoded binary feature vector $X_{\ell}$ of length 10,000, with all zeros and a single 1 in the position for that word in the dictionary
+	- eg dummy variables 
+- this results in an extremely sparse feature representation, which would not work well
 
 ## INSTEAD
 - use a #lower-dimensional pretrained word #embedding[^1] matrix $\mathbf{E}$ ($m\times 10K$)
@@ -19,7 +19,7 @@
 - got 87% accuracy
 	- slightly less than the 88% achieved by `glmnet`[^2] [^3]
 
-- #imdb-reviews have been used as a #benchmark for new [[Recurrent Neural Network Architecture]] 
+- IMDB reviews have been used as a benchmark for new [[Recurrent Neural Network Architecture]] 
 	- best reported result (ca 2020) was around 95%
 
 

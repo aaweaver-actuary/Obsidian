@@ -1,4 +1,4 @@
-[[Unsupervised Learning]] [[Principal Components Analysis]] 
+[[Unsupervised Learning]] [[Principal Components Analysis (PCA)]] 
 
 - [[Further principal components]]
 - [[Use a biplot to visualize the principal components]]

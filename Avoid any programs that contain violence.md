@@ -1,0 +1,7 @@
+- young kids can mimic behaviors
+	- this is less likely
+- bigger issue:
+	- violent TV changes how the body reacts to actual violence 
+- you have lizard-brain reactions to violence even if you logically know that it is a video
+	- if children do this all the time, it can mute the mental response to actual violence
+- 

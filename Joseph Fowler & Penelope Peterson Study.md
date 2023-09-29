@@ -1,0 +1,1 @@
+- [[Attributional Style - How we think about success and failure|attributional]] retraining helps 

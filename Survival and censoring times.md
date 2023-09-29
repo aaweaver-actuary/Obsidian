@@ -5,7 +5,7 @@
 - For each individual we suppose that there is a true #failure-time or #event-time $T$, as well as a true [[Censoring Time|censoring time]] $C$
 - The [[Survival Time|survival time]] represents the time at which the event of interest occurs
     - eg death
-- The [[Censoring Time|censoring time]] is the time at which data is #censored
+- The [[Censoring Time|censoring time]] is the time at which data is [[Censored Data|censored]]
     - eg the time the patient drops out of the study or the study ends
 
 ### Notation

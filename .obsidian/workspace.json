@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ae6392fbf34b5d53",
+            "id": "3a97d77773bda861",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Organism Model.md",
+                "file": "Benji.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#l2",
+                "query": "tag:#centered",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,7 +66,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -87,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Organism Model.md",
+                "file": "Benji.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Organism Model.md",
+                "file": "Benji.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Organism Model.md"
+                "file": "Benji.md"
               }
             }
           },
@@ -161,40 +162,47 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ae6392fbf34b5d53",
+  "active": "3a97d77773bda861",
   "lastOpenFiles": [
-    "Evolution Simulation.md",
-    "Organism Model.md",
-    "Conditions required for evolution.md",
-    "daily/2023-09-21.md",
-    "Children's Math Skill.md",
-    "Number Sense.md",
-    "daily/2023-09-19.md",
-    "Overview of Supervised Learning.md",
-    "The Elements of Statistical Learning.md",
-    "Step Functions.md",
-    "daily/2023-09-16.md",
-    "Expanding Working Memory Capacity.md",
-    "daily/2023-09-18.md",
-    "Working Memory.md",
-    "Children's Memory.md",
-    "Linear Regression.md",
-    "daily/2023-09-15.md",
-    "Additive Error Model.md",
-    "Hierarchical Clustering - Choice of Dissimilarity Measure.md",
-    "Overview of Statistical Learning.md",
-    "Hugging Face script to fine-tune BERT for text classification.md",
-    "GAMs are a generalization of linear models that allow for flexible nonlinearities in several variables, without losing the additivity of a linear model.md",
+    "Physical Well-Being.md",
+    "Don't get involved in sports where they experience repetitive impacts to the head.md",
+    "Participate in team sports.md",
+    "Help children shed excess body fat.md",
+    "Benji.md",
+    "daily/2023-09-29.md",
+    "Montessori.md",
+    "daily/2023-09-27.md",
+    "jupyter test.md",
+    "epoch_1510.png",
+    "epoch_1500.png",
+    "epoch_1490.png",
+    "epoch_1480.png",
+    "epoch_1470.png",
+    "epoch_1460.png",
+    "epoch_1450.png",
+    "epoch_1440.png",
+    "epoch_1430.png",
+    "epoch_1420.png",
+    "untitled.md",
+    "Computation of Principal Components.md",
+    "Knot placement is based on the choice of one of a fixed set of rules.md",
+    "Natural cubic splines add extra constraints to cubic splines to pick boundary knots automatically.md",
+    "Double Descent.md",
     "Document Classification.md",
-    "Decision trees are easy to understand, but do not perform competitively with other methods.md",
-    "Boosting is a general procedure and idea.md",
-    "Boosting for classification trees.md",
+    "Bag-of-words model.md",
+    "Recurrent Neural Network on IMDB Reviews.md",
+    "Featurization - Bag of Words.md",
+    "GLMNET.md",
+    "Cox Proportional Hazards Model - Partial Likelihood.md",
+    "Cox Proportional Hazards Model - Connection with Log-Rank Test.md",
+    "Log Rank Test Statistic.md",
+    "The Log Rank Test.md",
+    "Survival and censoring times.md",
+    "Non-medical applications of survival analysis.md",
+    "Model Evaluation and Further Topics.md",
+    "graphs.ipynb",
     "Excalidraw",
     "docs",
-    "Pasted image 20230831050836.png",
-    "Pasted image 20230829050151.png",
-    "Pasted image 20230829043415.png",
-    "Pasted image 20230828072709.png",
     "pdf/intro-to-statistical-learning/ch05-resampling-methods.pdf",
     "pdf/intro-to-statistical-learning/imports.py",
     "pdf/intro-to-statistical-learning/ch02-statistical-learning.ipynb",
@@ -202,13 +210,6 @@
     "pdf/intro-to-statistical-learning/ch13-multiple-testing.pdf",
     "pdf/intro-to-statistical-learning/ch12-unsupervised-learning.pdf",
     "pdf/intro-to-statistical-learning/ch11-survival-analysis-and-censored-data.pdf",
-    "pdf/intro-to-statistical-learning/ch10-deep-learning.pdf",
-    "1 ccHxugJhQo7VH4GAAZt3Sg.png",
-    "rnn_orig.png",
-    "Typical-CNN-Architecture-1536x562.png",
-    "obsidian-app/public/vercel.svg",
-    "obsidian-app/public/next.svg",
-    "Pasted image 20230819063210.png",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]

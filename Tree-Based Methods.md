@@ -1,3 +1,4 @@
+
 [[Tree-Based Methods - Intro]]
 
 # 8.2 More details on trees
@@ -8,13 +9,13 @@
 
 ## 8.2.2 Tree Pruning
 
-* When growing a tree, could ask, "how big should we grow the tree?"
-    * At one extreme, we could grow a very large tree, until each region contains only a single observation.
-    * This will create a tree with perfect fit to the training data, but likely overfits the data, leading to poor test set performance.
+* When growing a [[Tree-Based Methods|tree]], could ask, "how big should we grow the [[Tree-Based Methods|tree]]?"
+    * At one extreme, we could grow a very large [[Tree-Based Methods|tree]], until each region contains only a single observation.
+    * This will create a [[Tree-Based Methods|tree]] with perfect fit to the training data, but likely overfits the data, leading to poor test set performance.
 * The process described above may produce good predictions on the training set, but is likely to overfit the data, leading to poor test set performance.
-* A smaller tree with fewer splits (that is, fewer regions $R_1$, $R_2$, ..., $R_J$) might lead to lower [[Variance|variance]] and better interpretation at the cost of a little [[Bias|bias]].
-* One possible alternative to the process described above is to grow the tree only so long as the decrease in the [[Residual Sum of Squares (RSS)|RSS]] due to each split exceeds some (high) threshold.
-* This strategy will result in smaller trees, but is likely to be too **conservative** in the sense that it may not capture important structure in the data:
+* A smaller [[Tree-Based Methods|tree]] with fewer splits (that is, fewer regions $R_1$, $R_2$, ..., $R_J$) might lead to lower [[Variance|variance]] and better interpretation at the cost of a little [[Bias|bias]].
+* One possible alternative to the process described above is to grow the [[Tree-Based Methods|tree]] only so long as the decrease in the [[Residual Sum of Squares (RSS)|RSS]] due to each split exceeds some (high) threshold.
+* This strategy will result in smaller [[Tree-Based Methods|trees]], but is likely to be too **conservative** in the sense that it may not capture important structure in the data:
     * A seemingly worthless split early on in the tree might lead to a very good split later on (meaning that the early split should have been included).
     * This is called **early stopping**.
 * A better strategy is to grow a very large tree $T_0$, and then **prune** it back in order to obtain a **subtree**.

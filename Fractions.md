@@ -1,0 +1,4 @@
+- workbooks
+- talk to teacher
+- talk to kids about why they are important
+- 

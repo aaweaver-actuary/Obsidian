@@ -4,8 +4,8 @@
 
 - Because the form of the #baseline-hazard is unknown[^1] we cannot simply plug $h(t|x_i)$ into the [[Likelihood|likelihood]] and then estimate $\beta = (\beta_1, \beta_2, \ldots, \beta_p)^T$ by [[Maximum likelihood is used to fit linear regression parameters|maximum likelihood]]
 - The magic of the [[Cox Proportional Hazards Model]] lies in the fact that it is possible to estimate $\beta$ without having to specify the form of $h_0(t)$
-- To accomplish this we make use of the same sequential-in-time logic as we used for the [[Kaplan-Meier]] survival curve[^2] and the #log-rank test[^3]
-    - Then the total [[The Hazard Function|hazard rate]] at #failure-time $y_i$ for the at-risk observations is $$
+- To accomplish this we make use of the same sequential-in-time logic as we used for the [[Kaplan-Meier]] survival curve[^2] and the [[The Log Rank Test|log rank]] test[^3]
+    - Then the total [[The Hazard Function|hazard rate]] at failure time $y_i$ for the at-risk observations is $$
 	  \sum_{y_{i' \ge y_i}} h_0(y_i)\exp\left( \sum_{j=1}^p x_{i'j}\beta_j\right) \hspace{15em}
 	  $$
   - This means that the probability that the $i$th observation is the one to fail at time $y_i$[^4] is 

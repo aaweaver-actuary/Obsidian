@@ -1,4 +1,4 @@
-[[Principal Components Analysis]] [[Unsupervised Learning]]
+[[Principal Components Analysis (PCA)]] [[Unsupervised Learning]]
 
 - the first [[Principal Components|principal components]] #loading vector has a very special property:
 	- it defines the line in $p$-dimensional space that is closest to the $n$ observations

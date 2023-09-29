@@ -1,0 +1,4 @@
+- For example, a child may [[Attributional Style - How we think about success and failure|attribute]] their poor grade on a test to:
+	- the test being difficult 
+	- not having studied enough for that specific exam. 
+- This is often observed in younger children who haven't yet developed a stable concept of traits or dispositions.

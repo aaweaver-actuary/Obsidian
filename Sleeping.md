@@ -4,18 +4,15 @@
 
 From [[The Great Courses]]
 
-1. [[Breastfeeding]]
-    - Mom makes more #tryptophan in her #breastmilk as the day starts to wind down.
-    - #tryptophan becomes #melatonin, which is passed to #benji
 2. [[Swaddling]]
-    - babies have frequent #sleep-startle's and wake up
+    - babies have frequent sleep startles and wake up
     - most of the time the go back to sleep
     - swaddling helps minimize the number of startling events
 3. [[Provide lots of sensory cues in reference to the 24-hour cycle]]
     -
 4. [[Watching TV before bedtime is one of the worst ways to signal to your brain that it is time to go to sleep]]
 
-## What to do if #benji just won't go to bed?
+## What to do if benji just won't go to bed?
 
 From [[The Great Courses]]
 

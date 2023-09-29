@@ -1,0 +1,7 @@
+- [[Avoid violent or excessively realistic video games|Violent video games]] may not necessarily lead to more aggressive behavior from the child
+	- but definitely does desensitize them
+	- less likely to engage in helping behavior
+- There are lots of types of games though
+	- Example of [[Pro-Social Behaviors|pro-social]] video game:
+		- [[Lemmings]]
+- Playing a game that rewards pro-social behaviors brings them to real-world situations as well

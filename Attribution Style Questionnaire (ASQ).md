@@ -1,0 +1,2 @@
+- MetLife used this to hire otherwise "unqualified" salespeople
+	- best scores on ASQ outsold others by 57%

@@ -26,9 +26,9 @@
 ## Summary
 
 - [[Logistic Regression|Logistic regression]] is very popular for [[Classification|classification]], especially for binary target
-- [[Linear Discriminant Analysis|Linear discriminant analysis]] is useful when $n$ is small and the classes are #well-separated and [[Gaussian]] assumptions are reasonable
+- [[Linear Discriminant Analysis|Linear discriminant analysis]] is useful when $n$ is small and the classes are well separated and [[Gaussian]] assumptions are reasonable
     - also useful when $K > 2$
-- #naive-Bayes is useful when $p$ is large and/or $n$ is small
-- [[Logistic Regression|Logistic regression]] and [[Linear Discriminant Analysis|linear discriminant analysis]] are more popular than #naive-Bayes
-    - but #naive-Bayes is often surprisingly hard to beat
+- [[Naive Bayes]] is useful when $p$ is large and/or $n$ is small
+- [[Logistic Regression|Logistic regression]] and [[Linear Discriminant Analysis|linear discriminant analysis]] are more popular than [[Naive Bayes]]
+    - but [[Naive Bayes]] is often surprisingly hard to beat
 - see section 4.5 for some comparisons of these methods on real data

@@ -1,18 +1,18 @@
 [[Exploratory Data Analysis (EDA)]]
 
-## #descriptive-statistics
+## descriptive statistics
 
 1. average target rate for both classes of the feature
-2. summarize cross-tab ( #confusion-matrix )
+2. summarize cross-tab ( [[Confusion Matrix]] )
 
-## #visualization
+## visualization
 
-1. Plot #bar-charts to show the distribution of both classes for each binary feature
+1. Plot bar charts to show the distribution of both classes for each binary feature
    ([[Binary classification training data should be balanced]])
-2. Draw #mosaic-plots to represent the relationship between the binary feature and the binary target variable.
+2. Draw mosaic plots to represent the relationship between the binary feature and the binary target variable.
 3.
 
-## #association-measures
+## association measures
 
 1. Compute [[Point-Biserial Correlation]] to measure the relationship between binary feature and binary target.
 2. Conduct [[Chi-Squared tests for independence]] between each binary feature and binary target.

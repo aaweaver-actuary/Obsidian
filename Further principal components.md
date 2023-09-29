@@ -1,4 +1,4 @@
-[[Principal Components Analysis]] [[Unsupervised Learning]]
+[[Principal Components Analysis (PCA)]] [[Unsupervised Learning]]
 
 - The second [[Principal Components|principal component]] is the [[Linear Combination|linear combination]] of $X_1, \dots, X_p$ that has maximal [[Variance|variance]] among all [[Linear Combination|linear combinations]] that are uncorrelated with $Z_1$
 - The second [[Principal Components|principal component]] takes the form$$

@@ -15,7 +15,7 @@
 	- $A_3$ gets input from $x_3$ and $A_2$ 
 	- ultimately the $A_i$ are accumulating a memory of what has happened in the sequence
 	- memory is carried forward by the $A$s
-	- also note that the same #weight's $W_x$ and $W_H$ are used at each step as you move along
+	- also note that the same [[Weights|weights]] $W_x$ and $W_H$ are used at each step as you move along
 		- this is where the name "recurrent" in [[Recurrent Neural Networks|recurrent neural networks]] comes from
-	- finally there is a set of output vectors $y_1, y_2, \dots, y_n$, with the same #weight's $W_Y$ being used
+	- finally there is a set of output vectors $y_1, y_2, \dots, y_n$, with the same [[Weights|weights]] $W_Y$ being used
 		- you get a sequence of outputs, though maybe only interested in the accumulated knowledge of the output, so only interested in the last one

@@ -1,0 +1,6 @@
+- some evidence this can contribute to aggressive behavior (this is modest)
+- can desensitize them to the violence
+- issue: tests showing [[Spatial reasoning WRT video games|improved spatial reasoning]] due to playing video games are high-action/high-violence
+	- not clear whether or not the improved spatial reasoning is *because* of the violence
+	- could be related to the engagement in the video game
+		- urge towards non-violent games

@@ -1,0 +1,1 @@
+- avoid any activity that leads to repeated head impacts

@@ -3,8 +3,9 @@
 #### Tips
 1. When you teach young children math, start with [[Number Sense|number sense]]
 2. Play board games to promote development of [[Number Sense|number sense]]
-3. 8-10 years old -- teach child fractions --
+3. 8-10 years old -- teach child [[Fractions]] --
 	- this will make everything else easier
+	- key to middle & high school math
 
 - Math skill is one of the few interventions that has a long-term impact on a child's life
 - A boost at the onset of basic number abilities will last a long time

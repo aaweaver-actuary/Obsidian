@@ -3,7 +3,7 @@
 [[AUC for Survival Analysis - the C-index]]
 
 ## Additional topics[^1]
-- Other types of #censored data can work:
+- Other types of [[Censored Data|censored]] data can work:
 	- eg left and interval censoring
 - The choice of time scale can be interesting
 	- calendar time?
@@ -11,7 +11,7 @@
 - Time-dependent covariates:
 	- when we measure a feature (like blood pressure) at different time points
 - Methods for checking the proportional [[The Hazard Function|hazard rate]] assumption
-- There are also approaches for modeling [[Survival Time|survival time]] data using other #machine-learning methods such as [[Random Forests|random forests]], [[Boosting|boosting]], and [[Neural Networks|neural networks]]
+- There are also approaches for modeling [[Survival Time|survival time]] data using other machine learning methods such as [[Random Forests|random forests]], [[Boosting|boosting]], and [[Neural Networks|neural networks]]
 	- Some of these even avoid the proportional [[The Hazard Function|hazard rate]] assumption
 
 ## Software

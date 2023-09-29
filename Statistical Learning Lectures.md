@@ -3,7 +3,7 @@
 [[Classification]]
 [[Resampling Methods]]
 [[Linear Model Selection and Regularization]]
-[[7. Moving Beyond Linearity]]
+[[Moving Beyond Linearity]]
 [[Tree-Based Methods]]
 	[[Bagging]]
 	[[Random Forests]]

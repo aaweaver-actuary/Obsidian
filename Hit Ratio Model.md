@@ -1,6 +1,6 @@
 [[Small Business]] [[Predictive Modeling]]
 ## 2023-08-16
-- is there a #survival-curve that can be implemented over the whole dataset?
+- is there a [[Survival Curve|survival curve]] that can be implemented over the whole dataset?
 	- eg over time as a quote just sits out there how likely is it to be accepted?
 
 - binary target - hit/not hit

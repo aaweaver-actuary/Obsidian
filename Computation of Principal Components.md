@@ -1,7 +1,7 @@
-[[Unsupervised Learning]] [[Principal Components Analysis]]
+[[Unsupervised Learning]] [[Principal Components Analysis (PCA)]]
 
 - Suppose we have $n\times p$ data set $\mathbf{X}$
-- Since we are only interested in [[Variance|variance]], we assume that each of the variables in $\mathbf{X}$ has been #centered[^1]
+- Since we are only interested in [[Variance|variance]], we assume that each of the variables in $\mathbf{X}$ has been centered[^1]
 - We then look for the [[Linear Combination|linear combinations]] of the sample features of the form$$
 z_{i1} = \phi_{11}x_{i1} + \phi_{21}x_{i2} + \cdots + \phi_{p1}x_{ip} \hspace{13em} 
 $$for $i=1, 2, \dots, n$ that has the largest [[Variance|sample variance]], subject to the constraint that $\sum_{j=1}^p \phi_{j1}^2=1$ 

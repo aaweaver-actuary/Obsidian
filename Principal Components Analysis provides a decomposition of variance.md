@@ -1,4 +1,4 @@
-[[Unsupervised Learning]] [[Principal Components Analysis]]
+[[Unsupervised Learning]] [[Principal Components Analysis (PCA)]]
 
 - to understand the strength of each component, we want to know the #proportion-of-variance-explained (PVE) by each one
 - the #total-variance present in a data set (assuming variables have been #centered to have mean 0) is defined as$$

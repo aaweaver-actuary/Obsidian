@@ -40,9 +40,9 @@ $$
     - the scoring is done via the #dot-product, as shown above
 - if the sub-image of the input image is similar to the filter, the score is high, otherwise it is low
 - the convolutional filter is learned during training
-- the idea of a #convolution with a [[Convolutional Filter|convolutional filter]] is to find common patterns that occur in different parts of the image
+- the idea of a convolution with a [[Convolutional Filter|convolutional filter]] is to find common patterns that occur in different parts of the image
 - since images have three color channels (red, green, blue), the convolutional filter does as well
     - one convolutional filter per channel, and the #dot-product's are summed
-- the #weight's in the [[Convolutional Filter|convolutional filter]] are learned by the [[Neural Networks|neural network]]
+- the [[Weights|weights]] in the [[Convolutional Filter|convolutional filter]] are learned by the [[Neural Networks|neural network]]
 
 [^1]: [[How Convolutional Neural Networks Work]]

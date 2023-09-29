@@ -1,0 +1,2 @@
+- [[Internal Attributions - the cause comes from within you]] - you studied hard for the test
+- [[External Attributions - the cause comes from something outside you]] - you didn't study hard but the topics covered just happened to be those you knew well

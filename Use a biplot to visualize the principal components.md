@@ -1,4 +1,4 @@
-[[Unsupervised Learning]] [[Principal Components Analysis]]
+[[Unsupervised Learning]] [[Principal Components Analysis (PCA)]]
 
 ![[Pasted image 20230829043415.png]]
 

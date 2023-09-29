@@ -1,0 +1,2 @@
+- singing as a group can get kids to stop focusing on individual desires, and focus on the group (eg [[Pro-Social Behaviors|pro-social behaviors]])
+- 
